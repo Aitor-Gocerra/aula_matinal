@@ -1,115 +1,146 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <title>Añadir Nuevo Alumno</title>
-    <link rel="icon" href="assets/img/favicon-img.png" type="image/x-icon">
-</head>
-<body>
-    <?php
-        include_once('layouts/headerAdmin.php');
-        
-    ?>
+<?php $pageTitle = 'Añadir Nuevo Alumno'; ?>
+<?php include_once('layouts/headerAdmin.php'); ?>
 
-    <div class="container mt-3">
+    <div class="container mt-3 mb-5">
         <div class="mb-3">
-            <a href="index.php?c=GestionInscripciones&m=alumnosinscritos" class="btn" style="background-color: #006EA4; color: white;">
-                <i class="bi bi-arrow-left"></i> VOLVER
+            <a href="index.php?c=GestionInscripciones&m=alumnosinscritos" class="btn btn-volver">
+                <i class="bi bi-arrow-left me-1" aria-hidden="true"></i> Volver
             </a>
         </div>
+
         <?php if (isset($datos['errores']) && !empty($datos['errores'])): ?>
             <div class="alert alert-danger alert-dismissible fade show mx-auto" style="max-width: 650px;" role="alert">
+                <i class="bi bi-exclamation-triangle-fill me-2" aria-hidden="true"></i>
                 <strong>Por favor, corrija los siguientes errores:</strong>
-                <ul>
+                <ul class="mb-0 mt-1">
                     <?php foreach ($datos['errores'] as $error): ?>
                         <li><?php echo htmlspecialchars($error); ?></li>
                     <?php endforeach; ?>
                 </ul>
-                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                </div>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Cerrar"></button>
+            </div>
         <?php endif; ?>
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <h4 class="text-center mb-4 form-header">
-                    AÑADIR ALUMNO
-                    <hr>
-                </h4>
-                <form method="post" action="index.php?c=GestionInscripciones&m=insertar">
+
+        <h4 class="text-center mb-4 form-header">
+            AÑADIR ALUMNO
+            <hr>
+        </h4>
+
+        <form method="post" action="index.php?c=GestionInscripciones&m=insertar" novalidate>
+            <div class="row g-4 align-items-start">
+
                 <!-- Datos del tutor -->
-                <div class="card mb-4">
-                        <div class="card-header text-white" style="background-color: #006EA4;">
-                            <h5 class="mb-0">DATOS DEL PADRE/MADRE/TUTOR</h5>
+                <div class="col-md-6">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-header card-header-primary">
+                            <h5 class="mb-0"><i class="bi bi-person-vcard me-2" aria-hidden="true"></i>DATOS DEL PADRE/MADRE/TUTOR</h5>
                         </div>
-                        <div class="card-body" style="background-color:  #bcd7e4;">
-                            <div class="mb-3">
-                                <label class="form-label">NOMBRE</label>
-                                <input type="text" name="nombrePadre" value="<?php echo isset($datos['datos']['nombrePadre']) ? htmlspecialchars($datos['datos']['nombrePadre']) : ''; ?>" class="form-control bg-light" placeholder="Nombre del tutor">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">APELLIDOS</label>
-                                <input type="text" name="apellidosPadre" value="<?php echo isset($datos['datos']['apellidosPadre']) ? htmlspecialchars($datos['datos']['apellidosPadre']) : ''; ?>" class="form-control bg-light" placeholder="Apellidos del tutor">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">DNI/NIE/PASAPORTE</label>
-                                <input type="text" name="DNI" value="<?php echo isset($datos['datos']['DNI']) ? htmlspecialchars($datos['datos']['DNI']) : ''; ?>" class="form-control bg-light" placeholder="DNI del tutor">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">TELÉFONO</label>
-                                <input type="text" name="telefono" value="<?php echo isset($datos['datos']['telefono']) ? htmlspecialchars($datos['datos']['telefono']) : ''; ?>" class="form-control bg-light" placeholder="Teléfono del tutor">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">CORREO</label>
-                                <input type="email" name="correo" value="<?php echo isset($datos['datos']['correo']) ? htmlspecialchars($datos['datos']['correo']) : ''; ?>" class="form-control bg-light" placeholder="Email del tutor">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">IBAN</label>
-                                <input type="text" name="IBAN" value="<?php echo isset($datos['datos']['IBAN']) ? htmlspecialchars($datos['datos']['IBAN']) : ''; ?>"class="form-control bg-light" placeholder="IBAN del tutor">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">TITULAR DE LA CUENTA</label>
-                                <input type="text" name="titularCuenta" value="<?php echo isset($datos['datos']['titularCuenta']) ? htmlspecialchars($datos['datos']['titularCuenta']) : ''; ?>" class="form-control bg-light" placeholder="Titular de la cuenta de banco del tutor">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">FECHA MANDATO</label>
-                                <input type="date" name="fechaMandato" value="<?php echo isset($datos['datos']['fechaMandato']) ? htmlspecialchars($datos['datos']['fechaMandato']) : ''; ?>"class="form-control bg-light">
+                        <div class="card-body card-body-form">
+                            <div class="row g-3">
+                                <div class="col-sm-6">
+                                    <label for="nombrePadre" class="form-label">NOMBRE</label>
+                                    <input type="text" id="nombrePadre" name="nombrePadre"
+                                           value="<?php echo htmlspecialchars($datos['datos']['nombrePadre'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="Nombre del tutor">
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="apellidosPadre" class="form-label">APELLIDOS</label>
+                                    <input type="text" id="apellidosPadre" name="apellidosPadre"
+                                           value="<?php echo htmlspecialchars($datos['datos']['apellidosPadre'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="Apellidos del tutor">
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="DNI" class="form-label">DNI/NIE/PASAPORTE</label>
+                                    <input type="text" id="DNI" name="DNI"
+                                           value="<?php echo htmlspecialchars($datos['datos']['DNI'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="DNI del tutor">
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="telefono" class="form-label">TELÉFONO</label>
+                                    <input type="tel" id="telefono" name="telefono"
+                                           value="<?php echo htmlspecialchars($datos['datos']['telefono'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="Teléfono del tutor">
+                                </div>
+                                <div class="col-12">
+                                    <label for="correo" class="form-label">CORREO ELECTRÓNICO</label>
+                                    <input type="email" id="correo" name="correo"
+                                           value="<?php echo htmlspecialchars($datos['datos']['correo'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="correo@ejemplo.com">
+                                </div>
+                                <div class="col-12">
+                                    <label for="IBAN" class="form-label">IBAN</label>
+                                    <input type="text" id="IBAN" name="IBAN"
+                                           value="<?php echo htmlspecialchars($datos['datos']['IBAN'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="ES00 0000 0000 0000 0000 0000">
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="titularCuenta" class="form-label">TITULAR DE LA CUENTA</label>
+                                    <input type="text" id="titularCuenta" name="titularCuenta"
+                                           value="<?php echo htmlspecialchars($datos['datos']['titularCuenta'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="Nombre del titular">
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="fechaMandato" class="form-label">FECHA MANDATO</label>
+                                    <input type="date" id="fechaMandato" name="fechaMandato"
+                                           value="<?php echo htmlspecialchars($datos['datos']['fechaMandato'] ?? ''); ?>"
+                                           class="form-control bg-light">
+                                </div>
                             </div>
                         </div>
                     </div>
+                </div>
 
-                    <!-- Datos del alumno -->
-                    <div class="card mb-4">
-                        <div class="card-header text-white" style="background-color: #006EA4;">
-                            <h5 class="mb-0">DATOS DEL ALUMNO</h5>
+                <!-- Datos del alumno -->
+                <div class="col-md-6">
+                    <div class="card shadow-sm">
+                        <div class="card-header card-header-primary">
+                            <h5 class="mb-0"><i class="bi bi-mortarboard me-2" aria-hidden="true"></i>DATOS DEL ALUMNO</h5>
                         </div>
-                        <div class="card-body" style="background-color: #bcd7e4;">
-                            <div class="mb-3">
-                                <label class="form-label">NOMBRE</label>
-                                <input type="text" name="nombreAlumno" value="<?php echo isset($datos['datos']['nombreAlumno']) ? htmlspecialchars($datos['datos']['nombreAlumno']) : ''; ?>" class="form-control bg-light" placeholder="Nombre del alumno">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">APELLIDOS</label>
-                                <input type="text" name="apellidosAlumno" value="<?php echo isset($datos['datos']['apellidosAlumno']) ? htmlspecialchars($datos['datos']['apellidosAlumno']) : ''; ?>" class="form-control bg-light" placeholder="Apellidos del alumno">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">CLASE</label>
-                                <select name="idClase" class="form-select bg-light">
-                                    <option value="">SELECCIONE UNA CLASE</option>
-                                    <?php
-                                    foreach($datos['clases'] as $clase){
-                                        $selected = (isset($datos['datos']['idClase']) && $datos['datos']['idClase'] == $clase['idClase']) ? 'selected' : '';
-                                        echo "<option value='{$clase['idClase']}' $selected>{$clase['clase']}</option>";
-                                    }
-                                    ?>
-                                </select>
+                        <div class="card-body card-body-form">
+                            <div class="row g-3">
+                                <div class="col-sm-6">
+                                    <label for="nombreAlumno" class="form-label">NOMBRE</label>
+                                    <input type="text" id="nombreAlumno" name="nombreAlumno"
+                                           value="<?php echo htmlspecialchars($datos['datos']['nombreAlumno'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="Nombre del alumno">
+                                </div>
+                                <div class="col-sm-6">
+                                    <label for="apellidosAlumno" class="form-label">APELLIDOS</label>
+                                    <input type="text" id="apellidosAlumno" name="apellidosAlumno"
+                                           value="<?php echo htmlspecialchars($datos['datos']['apellidosAlumno'] ?? ''); ?>"
+                                           class="form-control bg-light" placeholder="Apellidos del alumno">
+                                </div>
+                                <div class="col-12">
+                                    <label for="idClase" class="form-label">CLASE</label>
+                                    <select id="idClase" name="idClase" class="form-select bg-light">
+                                        <option value="">Seleccione una clase</option>
+                                        <?php foreach ($datos['clases'] as $clase): ?>
+                                            <option value="<?php echo (int)$clase['idClase']; ?>"
+                                                <?php echo (isset($datos['datos']['idClase']) && $datos['datos']['idClase'] == $clase['idClase']) ? 'selected' : ''; ?>>
+                                                <?php echo htmlspecialchars($clase['clase']); ?>
+                                            </option>
+                                        <?php endforeach; ?>
+                                    </select>
+                                </div>
                             </div>
                         </div>
                     </div>
+                </div>
 
-                    <div class="text-center mt-4 mb-4">
-                        <button type="submit" class="btn" style="background-color: #006EA4; color: white;">GUARDAR</button>
-                        <a href="index.php?c=GestionInscripciones&m=alumnosinscritos" class="btn me-2" style="background-color: #006EA4; color: white;">CANCELAR</a>
-                    </div>
-                </form>                
-                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-                <script src="js/views/vAltaInscripcion.js"></script>
-            </body>
+            </div>
+
+            <div class="d-flex justify-content-center gap-2 mt-4 mb-4">
+                <button type="submit" class="btn btn-volver px-4">
+                    <i class="bi bi-floppy me-1" aria-hidden="true"></i> GUARDAR
+                </button>
+                <a href="index.php?c=GestionInscripciones&m=alumnosinscritos" class="btn btn-cancelar px-4">
+                    CANCELAR
+                </a>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/views/vAltaInscripcion.js"></script>
+</body>
 </html>

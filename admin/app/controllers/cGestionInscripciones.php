@@ -27,13 +27,13 @@ class CGestionInscripciones{
      */
     public function alumnosinscritos(){
         $this->vista = 'vAlumnosInscritos';
-        $datos = $this->obj_modelo->alumnosinscritos();
-        if(isset($datos['noalumnos'])){
-            return $datos;
+        $lista = $this->obj_modelo->alumnosinscritos();
+        $clases = $this->obj_modelo->listarclases();
+        if(isset($lista['noalumnos'])){
+            return ['noalumnos' => $lista['noalumnos'], 'clases' => $clases];
         }else{
-            $datos['datos'] = $datos;
-            return $datos;
-        }   
+            return ['datos' => $lista, 'clases' => $clases];
+        }
     }
 
     /**
@@ -131,16 +131,19 @@ class CGestionInscripciones{
         $datos = $_POST;
 
         $errores = $this->validarcampos_completarinscripcion();
-        // Si hay errores, redirigir de vuelta al formulario con los mensajes de error
+        // Si hay errores, volver al listado con el modal abierto y los errores
         if (!empty($errores)) {
-            $this->vista = 'vAltaInscripcion';
+            $this->vista = 'vAlumnosInscritos';
             $clases = $this->obj_modelo->listarclases();
-            $datos['errores'] = $errores; // Pasar el array de errores dentro de 'datos'
-            return [
-                'datos' => $datos,
-                'clases' => $clases,
-                'errores' => $errores
-            ];
+            $lista = $this->obj_modelo->alumnosinscritos();
+            $result = isset($lista['noalumnos'])
+                ? ['noalumnos' => $lista['noalumnos']]
+                : ['datos' => $lista];
+            $result['clases'] = $clases;
+            $result['errores_formulario'] = $errores;
+            $result['form_data'] = $datos;
+            $result['modal_tipo'] = 'alta';
+            return $result;
         }else{
             $datos_inscripcion = [
                 'nombre_tutor' => $_POST['nombrePadre'],
@@ -158,18 +161,24 @@ class CGestionInscripciones{
 
         if ($this->obj_modelo->guardarInscripcion($datos_inscripcion)) {
             $this->vista = 'vAlumnosInscritos';
-            $datos = $this->obj_modelo->alumnosinscritos();
-            if(isset($datos['noalumnos'])){
-                return $datos;
-            }else{
-                return ['datos' => $datos, 
-                        'mensaje_exito' => 'Se ha añadido al alumno correctamente'];
-            }
+            $lista = $this->obj_modelo->alumnosinscritos();
+            $clases = $this->obj_modelo->listarclases();
+            $result = isset($lista['noalumnos'])
+                ? ['noalumnos' => $lista['noalumnos']]
+                : ['datos' => $lista];
+            $result['clases'] = $clases;
+            $result['mensaje_exito'] = 'Se ha añadido al alumno correctamente';
+            return $result;
         } else {
-            $this->vista = 'vAltaInscripcion';
-            $datos = $this->obj_modelo->listarclases();
-            $datos['errores'] = 'Error al guardar la inscripción en la base de datos.'; // Pasar como array dentro de 'datos'
-            return $datos;
+            $this->vista = 'vAlumnosInscritos';
+            $lista = $this->obj_modelo->alumnosinscritos();
+            $clases = $this->obj_modelo->listarclases();
+            $result = isset($lista['noalumnos'])
+                ? ['noalumnos' => $lista['noalumnos']]
+                : ['datos' => $lista];
+            $result['clases'] = $clases;
+            $result['errores'] = 'Error al guardar la inscripción en la base de datos.';
+            return $result;
         }
     }
 }
@@ -306,19 +315,21 @@ class CGestionInscripciones{
         //Llamamos al método que tiene validaciones específicas para COMPLETAR inscripciones
         $errores = $this->validarcampos_completarinscripcion();
         
-        // Si hay errores, redirigir de vuelta al formulario con los mensajes de error
+        // Si hay errores, volver al listado con el modal abierto y los errores
         if (!empty($errores)) {
-            $this->vista = 'vModificarInscripcion';
+            $this->vista = 'vAlumnosInscritos';
             $clases = $this->obj_modelo->listarclases();
+            $lista = $this->obj_modelo->alumnosinscritos();
+            $result = isset($lista['noalumnos'])
+                ? ['noalumnos' => $lista['noalumnos']]
+                : ['datos' => $lista];
+            $result['clases'] = $clases;
+            $result['errores_formulario'] = $errores;
+            $result['form_data'] = $datos;
+            $result['modal_tipo'] = 'modificar';
+            $result['id_inscripcion'] = $id;
+            return $result;
 
-            return [
-                'datos' => $datos,
-                'clases' => $clases,
-                'errores' => $errores,
-                'id_inscripcion' => $id
-            ]; 
-        
-        //Si no hay errores, preparar el array para guardarlo en la bbdd.
         }else{
             $datos_inscripcion = [
                 'id' => $id,
@@ -333,26 +344,29 @@ class CGestionInscripciones{
                 'nombre_alumno' => $_POST['nombreAlumno'],
                 'apellidos_alumno' => $_POST['apellidosAlumno'],
                 'clase' => $_POST['idClase'],
-                'completada' =>1
+                'completada' => 1
             ];
 
-            //Si retorna true, devolvemos al listado de alumnos inscritos con un mensaje de éxito.
             if ($this->obj_modelo->modificarInscripcion($datos_inscripcion)) {
                 $this->vista = 'vAlumnosInscritos';
-                $datos = $this->obj_modelo->alumnosinscritos();
-                return ['datos' => $datos, 'mensaje_exito' => "Se ha modificado correctamente los datos del alumno/a {$datos_inscripcion['nombre_alumno']}"];
-            
-            //Si ha ocurrido algún error, redirigir de vuelta al formulario con los mensajes de error y las clases para hacerlo dinámico.
+                $lista = $this->obj_modelo->alumnosinscritos();
+                $clases = $this->obj_modelo->listarclases();
+                $result = isset($lista['noalumnos'])
+                    ? ['noalumnos' => $lista['noalumnos']]
+                    : ['datos' => $lista];
+                $result['clases'] = $clases;
+                $result['mensaje_exito'] = "Se ha modificado correctamente los datos del alumno/a {$datos_inscripcion['nombre_alumno']}";
+                return $result;
             } else {
                 $this->vista = 'vAlumnosInscritos';
-                $datos = $this->obj_modelo->alumnosinscritos();
+                $lista = $this->obj_modelo->alumnosinscritos();
                 $clases = $this->obj_modelo->listarclases();
-                $errores = 'Error al guardar la inscripción en la base de datos.'; // Pasar como array dentro de 'datos'
-                return [
-                    'datos' => $datos,
-                    'clases' => $clases,
-                    'errores' => $errores
-                ]; 
+                $result = isset($lista['noalumnos'])
+                    ? ['noalumnos' => $lista['noalumnos']]
+                    : ['datos' => $lista];
+                $result['clases'] = $clases;
+                $result['errores'] = 'Error al guardar la inscripción en la base de datos.';
+                return $result;
             }
         }
     }

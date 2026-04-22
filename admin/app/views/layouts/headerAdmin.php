@@ -3,62 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) . ' — Aula Matinal' : 'Aula Matinal'; ?></title>
     <link rel="icon" href="assets/img/favicon-img.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark mb-4">
+    <nav class="navbar navbar-expand-lg navbar-dark mb-4" aria-label="Navegación principal">
         <div class="container-fluid">
-            <div class="d-flex align-items-center">
-                <img src="assets/img/logoEscuela.png" alt="Logo Escuela" class="navbar-logo">
-                </div>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="inicioCursoDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                INSCRIPCIONES
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="inicioCursoDropdown">
-                                <li><a class="dropdown-item" href="index.php?c=GestionInscripciones&m=alta">AÑADIR ALUMNO</a></li>
-                                <li><a class="dropdown-item" href="index.php?c=GestionInscripciones&m=alumnosinscritos">ALUMNOS INSCRITOS</a></li>
-                                <li><a class="dropdown-item" href="index.php?c=GestionInscripciones&m=inscripcionesincompletas">INSCRIPCIONES INCOMPLETAS</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="index.php?c=Remesas&m=listarRemesas" id="gestionRemesasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                               GESTIÓN REMESAS
-                           </a>
-                           <ul class="dropdown-menu" aria-labelledby="gestionRemesasDropdown">
-                                <li><a class="dropdown-item" href="index.php?c=Remesas&m=listarRemesas">CONSULTAR REMESAS</a></li>
-                                <li><a class="dropdown-item" href="index.php?c=Remesas&m=datosMensuales">GENERAR REMESAS</a></li>
-                           </ul>
-                       </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.php?c=Tarifas&m=tarifas">TARIFAS</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="inicioCursoDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                INICIO CURSO
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="inicioCursoDropdown">
-                                <li><a class="dropdown-item" href="index.php?c=DiasNoLectivos&m=listar">DÍAS NO LECTIVOS</a></li>
-                                <li><a class="dropdown-item" href="index.php?c=FechaCurso&m=fechaCurso">FECHA CURSO</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                    <ul class="navbar-nav ms-auto">
-                        <li class="nav-item">
-                            <a class="nav-link active" href="../user/index.php?c=ControlAsistencia&m=gestionar" target="_blank">GESTIÓN DEL DÍA A DÍA</a>
-                        </li>
-                    </ul>  
-                </div>
+            <a class="navbar-brand p-0" href="index.php?c=PanelAdmin&m=inicio">
+                <img src="assets/img/logoEscuela.png" alt="Logo Escuela — Inicio" class="navbar-logo">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Abrir menú de navegación">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="inscripcionesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            INSCRIPCIONES
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="inscripcionesDropdown">
+                            <li><a class="dropdown-item" href="index.php?c=GestionInscripciones&m=alta">AÑADIR ALUMNO</a></li>
+                            <li><a class="dropdown-item" href="index.php?c=GestionInscripciones&m=alumnosinscritos">ALUMNOS INSCRITOS</a></li>
+                            <li><a class="dropdown-item" href="index.php?c=GestionInscripciones&m=inscripcionesincompletas">INSCRIPCIONES INCOMPLETAS</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="gestionRemesasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            GESTIÓN REMESAS
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="gestionRemesasDropdown">
+                            <li><a class="dropdown-item" href="index.php?c=Remesas&m=listarRemesas">CONSULTAR REMESAS</a></li>
+                            <li><a class="dropdown-item" href="index.php?c=Remesas&m=datosMensuales">GENERAR REMESAS</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.php?c=Tarifas&m=tarifas">TARIFAS</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="inicioCursoDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            INICIO CURSO
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="inicioCursoDropdown">
+                            <li><a class="dropdown-item" href="index.php?c=DiasNoLectivos&m=listar">DÍAS NO LECTIVOS</a></li>
+                            <li><a class="dropdown-item" href="index.php?c=FechaCurso&m=fechaCurso">FECHA CURSO</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link nav-link-destacado" href="../user/index.php?c=ControlAsistencia&m=gestionar" target="_blank" rel="noopener noreferrer">
+                            <i class="bi bi-calendar2-check me-1"></i> GESTIÓN DEL DÍA A DÍA
+                        </a>
+                    </li>
+                </ul>
             </div>
         </div>
     </nav>
-    
-    

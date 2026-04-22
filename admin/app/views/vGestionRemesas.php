@@ -1,101 +1,120 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Panel Administrador - Gestión remesas</title>
-    <link rel="icon" href="assets/img/favicon-img.png" type="image/x-icon">
-</head>
-<body>
-    <?php require_once('layouts/headerAdmin.php'); ?>
-    <div class="container datos-mensuales-container">
-        <div class="d-flex flex-column align-items-center mb-4">
-            <div class="section-header">HISTORIAL DE REMESAS</div>
-        </div>
-        <div class="mb-4 d-flex justify-content-end">
-            <div class="input-group" style="max-width: 300px;">
-                <span class="input-group-text bg-custom-secondary text-white icon-personalizado">
-                    <i class="bi bi-search icon-personalizado"></i>
-                </span>
-                <input type="text" class="form-control" id="buscadorRemesas" placeholder="Buscar remesa">
+<?php $pageTitle = 'Historial de Remesas'; ?>
+<?php require_once('layouts/headerAdmin.php'); ?>
+
+    <!-- Modal: confirmar borrado de remesa -->
+    <div class="modal fade" tabindex="-1" id="modalBorrarRemesa" aria-labelledby="modalBorrarRemesaLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+                    <h5 class="modal-title" id="modalBorrarRemesaLabel">
+                        <i class="bi bi-trash me-2" aria-hidden="true"></i>Eliminar remesa
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                </div>
+                <div class="modal-body">
+                    <p class="mb-0">¿Estás seguro de que quieres eliminar esta remesa? Esta acción no se puede deshacer.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-cancelar" data-bs-dismiss="modal">Cancelar</button>
+                    <a href="#" class="btn btn-danger" id="btnConfirmarBorrado">
+                        <i class="bi bi-trash me-1" aria-hidden="true"></i> Eliminar
+                    </a>
+                </div>
             </div>
         </div>
-        <?php 
-           $remesas = [];
-           if (isset($datos['remesas'])) {
-               $remesas = $datos['remesas'];
-           }           
+    </div>
+
+    <div class="container mb-5">
+        <div class="d-flex flex-column align-items-center mb-4">
+            <div class="section-header">
+                <i class="bi bi-archive me-2" aria-hidden="true"></i>HISTORIAL DE REMESAS
+            </div>
+        </div>
+
+        <?php
+            $remesas = $datos['remesas'] ?? [];
             $meses = [
                 1 => 'Enero', 2 => 'Febrero', 3 => 'Marzo', 4 => 'Abril', 5 => 'Mayo',
                 6 => 'Junio', 7 => 'Julio', 8 => 'Agosto', 9 => 'Septiembre',
                 10 => 'Octubre', 11 => 'Noviembre', 12 => 'Diciembre'
             ];
-            if (isset($_GET['msg'])){
+
+            if (isset($_GET['msg'])) {
                 $mensajes = [
-                    'ok' => 'Remesa borrada correctamente.',
+                    'ok'       => 'Remesa eliminada correctamente.',
                     'error_bd' => 'Hubo un error al eliminar la remesa.',
                     'error_id' => 'ID de remesa no válido.'
                 ];
-                $error = ($_GET['msg'] === 'ok') ? 'success' : 'danger';
-                echo '<div class="alert alert-'.$error.' alert-dismissible fade show" role="alert">' . $mensajes[$_GET['msg']] .'<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button> </div>';
+                $tipoAlerta = ($_GET['msg'] === 'ok') ? 'success' : 'danger';
+                $icono      = ($_GET['msg'] === 'ok') ? 'check-circle-fill' : 'exclamation-triangle-fill';
+                $msgTexto   = $mensajes[$_GET['msg']] ?? 'Operación realizada.';
+                echo '<div class="alert alert-' . $tipoAlerta . ' alert-dismissible fade show" role="alert">'
+                   . '<i class="bi bi-' . $icono . ' me-2" aria-hidden="true"></i>'
+                   . htmlspecialchars($msgTexto)
+                   . '<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Cerrar"></button>'
+                   . '</div>';
             }
         ?>
+
+        <!-- Buscador -->
+        <div class="d-flex justify-content-end mb-3">
+            <div class="input-group" style="max-width: 280px;">
+                <span class="input-group-text bg-custom-secondary" aria-hidden="true">
+                    <i class="bi bi-search"></i>
+                </span>
+                <input type="text" class="form-control" id="buscadorRemesas"
+                       placeholder="Buscar remesa" aria-label="Buscar remesa">
+            </div>
+        </div>
+
         <div class="table-responsive">
-            <table class="table mb-0 text-center">
+            <table class="table mb-0 text-center align-middle" aria-label="Historial de remesas generadas">
                 <thead>
                     <tr>
-                        <th>Periodo</th>
-                        <th>Fecha de generación</th>
-                        <th>Acciones</th>
+                        <th scope="col">Período</th>
+                        <th scope="col">Fecha de generación</th>
+                        <th scope="col">Acciones</th>
                     </tr>
                 </thead>
                 <tbody>
-                <?php
-                    if (!empty($remesas)) {
-                        for ($i = 0; $i < count($remesas); $i++) {
-                            $remesa = $remesas[$i];
-                            $mesNumero = (int)$remesa['mes'];
-                            $periodo = $meses[$mesNumero].' '.$remesa['anio'];
-                            $fechaGenerada = date_format(date_create($remesa['fechaGenerada']), 'd/m/Y');
-                            echo '
-                                <tr class="align-middle">
-                                    <td>'.$periodo .'</td>
-                                    <td>'.$fechaGenerada.'</td>
-                                    <td>
-                                        <a href="index.php?c=Remesas&m=descargarQ19&mes='.$mesNumero.'&anio='.$remesa['anio'].'" class="btn btn-sm action-button me-2">
-                                            <i class="bi bi-file-earmark-text"></i> Descargar Q19
-                                        </a>
-                                        <a href="#" class="btn btn-sm action-button" data-bs-toggle="modal" data-bs-target="#modalBorrarRemesa"data-id="'.$remesa['idRemesa'].'">
-                                            <i class="bi bi-trash"></i> Eliminar
-                                        </a>
-                                    </td>
-                                </tr>';
-                        }
-                    } else {
-                        echo '<tr><td colspan="3">No hay remesas generadas.</td></tr>';
-                    }
-                ?>
+                    <?php if (!empty($remesas)): ?>
+                        <?php foreach ($remesas as $remesa): ?>
+                            <?php
+                                $mesNumero   = (int)$remesa['mes'];
+                                $periodo     = ($meses[$mesNumero] ?? '?') . ' ' . $remesa['anio'];
+                                $fechaGenObj = date_create($remesa['fechaGenerada']);
+                                $fechaGen    = $fechaGenObj ? date_format($fechaGenObj, 'd/m/Y') : '—';
+                            ?>
+                            <tr>
+                                <td><?php echo htmlspecialchars($periodo); ?></td>
+                                <td><?php echo htmlspecialchars($fechaGen); ?></td>
+                                <td>
+                                    <a href="index.php?c=Remesas&m=descargarQ19&mes=<?php echo $mesNumero; ?>&anio=<?php echo (int)$remesa['anio']; ?>"
+                                       class="btn btn-sm action-button me-1 d-inline-flex align-items-center gap-1"
+                                       title="Descargar archivo Q19" aria-label="Descargar Q19 de <?php echo htmlspecialchars($periodo); ?>">
+                                        <i class="bi bi-file-earmark-text" aria-hidden="true"></i> Descargar Q19
+                                    </a>
+                                    <button type="button"
+                                            class="btn btn-sm btn-danger d-inline-flex align-items-center gap-1"
+                                            data-bs-toggle="modal"
+                                            data-bs-target="#modalBorrarRemesa"
+                                            data-id="<?php echo (int)$remesa['idRemesa']; ?>"
+                                            aria-label="Eliminar remesa de <?php echo htmlspecialchars($periodo); ?>">
+                                        <i class="bi bi-trash" aria-hidden="true"></i> Eliminar
+                                    </button>
+                                </td>
+                            </tr>
+                        <?php endforeach; ?>
+                    <?php else: ?>
+                        <tr>
+                            <td colspan="3" class="text-muted fst-italic">No hay remesas generadas.</td>
+                        </tr>
+                    <?php endif; ?>
                 </tbody>
             </table>
         </div>
     </div>
-    <!-- Modal para pedir confirmacion al borrar-->
-    <div class="modal" tabindex="-1" id="modalBorrarRemesa">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title">Borrar</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <p>¿Estás seguro que quieres borrarlo?</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                        <a href="#" class="btn btn-danger" id="btnConfirmarBorrado">Confirmar</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script type="module" src="js/views/vRemesas.js"></script>
 </body>

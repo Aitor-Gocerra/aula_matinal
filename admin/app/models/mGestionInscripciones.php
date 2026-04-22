@@ -154,8 +154,17 @@ class MGestionInscripciones{
         $sql = "SELECT a.idAlumno,
                     a.nombreAlumno,
                     a.apellidosAlumno,
+                    a.idClase,
                     c.clase,
-                    i.idInscripcion
+                    i.idInscripcion,
+                    i.nombrePadre,
+                    i.apellidosPadre,
+                    i.DNI,
+                    i.telefono,
+                    i.correo,
+                    i.IBAN,
+                    i.titularCuenta,
+                    i.fechaMandato
                 FROM alumno a
                 INNER JOIN clases c ON a.idClase = c.idClase
                 INNER JOIN inscripciones i ON a.idInscripcion = i.idInscripcion

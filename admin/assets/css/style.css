@@ -5,9 +5,12 @@
     --azul-claro: #7AAFC9;
     --gris-tabla: #D9D9D9;
     --blanco: #ffffff;
+    --card-body-bg: #d9ebf5;
 }
 
-/* Estilos de la barra de navegación */
+/* ============================================================
+   BARRA DE NAVEGACIÓN
+   ============================================================ */
 .navbar {
     background-color: var(--azul-principal);
     margin-bottom: 1.5rem;
@@ -15,51 +18,54 @@
 
 .navbar-logo {
     height: 48px;
-    margin-right: 10px;
 }
 
-/* Estilos del menú desplegable */
+.nav-link-destacado {
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9) !important;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 0.375rem;
+    padding: 0.35rem 0.75rem !important;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.nav-link-destacado:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.7);
+    color: #ffffff !important;
+}
+
+/* ============================================================
+   MENÚ DESPLEGABLE
+   ============================================================ */
 .dropdown-menu {
     background-color: var(--azul-secundario);
 }
 
 .dropdown-item {
-    color: var(--blanco) ;
+    color: var(--blanco);
 }
 
 .dropdown-item:hover {
-    background-color: var(--azul-principal) ;
-    color: var(--blanco) ;
+    background-color: var(--azul-principal);
+    color: var(--blanco);
 }
 
-/* Estilos del contenedor */
-.dias-no-lectivos-container {
-    max-width: 900px;
-}
-
-/* Estilos del encabezado */
+/* ============================================================
+   ENCABEZADOS DE SECCIÓN (list/table views)
+   ============================================================ */
 .section-header {
-    background: var(--azul-claro);
-    border: 1px solid var(--azul-principal);
-    width: 250px;
     font-weight: bold;
-    color: var(--blanco);
+    color: var(--azul-principal);
     text-align: center;
-    padding: 8px 0;
-    border-radius: 6px;
+    font-size: 1.4rem;
     margin-bottom: 16px;
+    display: inline-block;
 }
 
-/* Estilos del botón añadir */
-.add-button {
-    background: var(--azul-principal);
-    color: var(--blanco);
-    width: 40px;
-    height: 40px;
-    font-size: 1.5rem;
-}
-
-/* Estilos de la tabla */
+/* ============================================================
+   TABLAS
+   ============================================================ */
 .table th {
     background-color: var(--gris-tabla);
     border-left: none;
@@ -73,7 +79,9 @@
     border-right: none;
 }
 
-/* Botones de acción */
+/* ============================================================
+   BOTONES DE ACCIÓN (tabla)
+   ============================================================ */
 .action-button {
     background: var(--azul-principal);
     color: var(--blanco);
@@ -84,7 +92,22 @@
     color: var(--blanco);
 }
 
-/* Estilos del formulario */
+/* ============================================================
+   BOTÓN AÑADIR (icono +)
+   ============================================================ */
+.add-button {
+    background: var(--azul-principal);
+    color: var(--blanco);
+}
+
+.add-button:hover {
+    background: var(--azul-secundario);
+    color: var(--blanco);
+}
+
+/* ============================================================
+   FORMULARIOS
+   ============================================================ */
 .form-header {
     color: var(--azul-principal);
 }
@@ -97,6 +120,7 @@
 
 .form-label {
     color: var(--azul-principal);
+    font-weight: 600;
 }
 
 .form-button {
@@ -109,22 +133,40 @@
     color: var(--blanco);
 }
 
-.add-button:hover {
-    background: var(--azul-secundario);
+/* Card headers y bodies de formularios de inscripción */
+.card-header-primary {
+    background-color: var(--azul-principal);
     color: var(--blanco);
 }
 
-/* Buscador */
+.card-body-form {
+    background-color: var(--card-body-bg);
+}
+
+/* Botón volver (consistente en todas las vistas) */
+.btn-volver {
+    background-color: var(--azul-principal);
+    color: var(--blanco);
+    border: none;
+}
+
+.btn-volver:hover {
+    background-color: var(--azul-secundario);
+    color: var(--blanco);
+}
+
+/* ============================================================
+   BUSCADOR
+   ============================================================ */
 .input-group-text.bg-custom-secondary {
     background-color: var(--azul-principal);
     border: 1px solid var(--azul-secundario);
-}
-
-.icon-personalizado {
     color: var(--blanco);
 }
 
-/* Botones datos Mensuales */
+/* ============================================================
+   BOTONES DATOS MENSUALES / REMESAS
+   ============================================================ */
 .btn-azul {
     background-color: var(--azul-principal);
     color: white;
@@ -170,15 +212,40 @@
 }
 
 .btn-detalles {
-    background-color: var(--azul-principal); 
+    background-color: var(--azul-principal);
     color: #fff;
     border: none;
 }
 
 .btn-detalles:hover {
     background-color: var(--azul-secundario);
-    border-color: var(--azul-secundario); 
+    color: #fff;
 }
 
+/* ============================================================
+   MODAL HEADERS (consistencia)
+   ============================================================ */
+.modal-header-primary {
+    background-color: var(--azul-principal);
+    color: var(--blanco);
+}
 
+/* ============================================================
+   PANEL ADMIN — tarjetas de acceso rápido
+   ============================================================ */
+.panel-action-btn {
+    background-color: var(--azul-principal);
+    color: var(--blanco);
+    border: none;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
 
+.panel-action-btn:hover {
+    background-color: var(--azul-secundario);
+    color: var(--blanco);
+    transform: translateY(-2px);
+}
+
+.panel-action-btn:active {
+    transform: translateY(0);
+}
