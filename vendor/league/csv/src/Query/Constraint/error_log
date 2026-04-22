@@ -1,0 +1,1598 @@
+[19-Jun-2025 02:54:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jun-2025 02:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[19-Jun-2025 05:12:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jun-2025 05:12:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[19-Jun-2025 13:00:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jun-2025 13:00:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[19-Jun-2025 17:09:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jun-2025 00:32:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jun-2025 00:32:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[23-Jun-2025 15:47:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jun-2025 15:47:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[23-Jun-2025 20:06:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jun-2025 20:06:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[24-Jun-2025 05:07:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jun-2025 07:02:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jun-2025 07:02:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[28-Jun-2025 00:28:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 00:28:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[28-Jun-2025 02:11:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 02:11:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[28-Jun-2025 03:22:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 03:22:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[29-Jun-2025 07:05:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 07:05:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[29-Jun-2025 07:43:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 07:43:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[29-Jun-2025 07:44:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 07:44:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[29-Jun-2025 09:59:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 09:59:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[29-Jun-2025 18:36:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 18:56:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 18:56:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[29-Jun-2025 20:17:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 20:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[30-Jun-2025 12:39:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 12:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[30-Jun-2025 12:47:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 12:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[01-Jul-2025 07:45:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 07:45:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[01-Jul-2025 15:43:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 15:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[01-Jul-2025 17:35:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 17:35:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[01-Jul-2025 17:36:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 17:36:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[02-Jul-2025 04:50:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 04:50:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[02-Jul-2025 05:29:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 05:29:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[02-Jul-2025 06:18:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 06:18:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[02-Jul-2025 06:51:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:07:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:07:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[04-Jul-2025 05:12:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:12:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Jul-2025 05:14:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:14:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Jul-2025 05:19:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:21:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:21:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Jul-2025 05:23:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:23:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[04-Jul-2025 05:24:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:24:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Jul-2025 05:25:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 05:25:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Jul-2025 10:34:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:34:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Jul-2025 10:52:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Jul-2025 13:30:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 13:30:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Jul-2025 13:31:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 13:31:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Jul-2025 13:38:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 13:38:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Jul-2025 13:39:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 13:39:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[04-Jul-2025 13:46:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 13:46:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Jul-2025 13:47:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 13:47:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Jul-2025 17:53:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 17:53:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Jul-2025 17:54:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 17:54:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Jul-2025 17:55:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 17:55:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Jul-2025 18:03:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 18:03:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Jul-2025 18:08:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 18:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[06-Jul-2025 12:15:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 12:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[06-Jul-2025 13:37:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 13:37:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[08-Jul-2025 15:47:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 15:47:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[08-Jul-2025 16:56:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 16:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[11-Jul-2025 19:58:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jul-2025 19:58:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[12-Jul-2025 02:54:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jul-2025 02:54:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[14-Jul-2025 05:44:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Jul-2025 05:44:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[14-Jul-2025 06:55:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Jul-2025 06:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[16-Jul-2025 10:52:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jul-2025 10:52:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[16-Jul-2025 19:53:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jul-2025 19:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[18-Jul-2025 17:52:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jul-2025 17:52:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[21-Jul-2025 04:33:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jul-2025 04:33:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[21-Jul-2025 15:33:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jul-2025 15:33:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[24-Jul-2025 00:52:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jul-2025 00:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[24-Jul-2025 03:22:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jul-2025 03:22:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[27-Jul-2025 04:02:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jul-2025 04:02:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[27-Jul-2025 05:30:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jul-2025 05:30:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[28-Jul-2025 01:54:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jul-2025 01:54:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[28-Jul-2025 05:46:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jul-2025 10:06:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jul-2025 10:06:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[31-Jul-2025 23:17:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jul-2025 23:17:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[31-Jul-2025 23:19:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jul-2025 23:19:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[01-Aug-2025 13:47:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Aug-2025 13:47:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[01-Aug-2025 14:48:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Aug-2025 14:48:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[01-Aug-2025 15:11:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 13:36:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 13:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Aug-2025 13:37:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 13:37:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Aug-2025 13:38:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 13:38:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[04-Aug-2025 13:41:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 13:41:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Aug-2025 19:08:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 19:08:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Aug-2025 19:12:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 19:12:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[04-Aug-2025 19:14:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 19:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Aug-2025 19:17:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 19:17:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[05-Aug-2025 00:15:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 00:17:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 00:17:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[05-Aug-2025 00:19:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 00:19:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[05-Aug-2025 00:22:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 00:22:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[05-Aug-2025 00:23:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 00:23:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[13-Aug-2025 11:05:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Aug-2025 11:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[13-Aug-2025 16:11:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Aug-2025 16:11:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[15-Aug-2025 15:44:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 16:50:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 16:50:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[15-Aug-2025 18:03:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 18:03:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[16-Aug-2025 01:11:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 01:11:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[16-Aug-2025 04:17:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 04:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[16-Aug-2025 19:26:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 19:26:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[16-Aug-2025 20:33:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 20:33:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[16-Aug-2025 22:24:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 17:13:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 17:13:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[29-Aug-2025 17:13:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 17:14:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 17:14:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[29-Aug-2025 17:14:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 17:14:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[29-Aug-2025 17:14:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 17:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[30-Aug-2025 21:04:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Aug-2025 21:04:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[30-Aug-2025 21:05:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Aug-2025 21:05:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[30-Aug-2025 21:09:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 00:29:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 00:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[31-Aug-2025 00:33:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 00:33:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[31-Aug-2025 00:37:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 00:37:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[31-Aug-2025 00:54:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 00:54:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Sep-2025 03:11:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Sep-2025 03:11:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Sep-2025 03:11:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Sep-2025 03:11:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Sep-2025 03:11:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[04-Sep-2025 03:11:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Sep-2025 03:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Sep-2025 03:11:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Sep-2025 03:11:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[17-Sep-2025 00:02:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Sep-2025 00:02:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[17-Sep-2025 00:56:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Sep-2025 00:56:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[17-Sep-2025 09:36:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Sep-2025 10:34:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Sep-2025 10:34:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[17-Sep-2025 17:14:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Sep-2025 17:14:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[20-Sep-2025 07:51:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Sep-2025 07:51:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[20-Sep-2025 07:59:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Sep-2025 07:59:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[20-Sep-2025 08:00:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Sep-2025 08:00:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[20-Sep-2025 08:04:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Sep-2025 08:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[20-Sep-2025 16:35:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 03:12:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 03:18:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 03:55:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 03:55:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[21-Sep-2025 04:01:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 04:01:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[22-Sep-2025 16:39:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Sep-2025 16:39:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[22-Sep-2025 16:54:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Sep-2025 16:54:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[24-Sep-2025 11:13:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 11:13:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[24-Sep-2025 11:20:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 11:20:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[25-Sep-2025 03:26:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Sep-2025 03:26:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[25-Sep-2025 06:16:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Sep-2025 06:16:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[25-Sep-2025 08:19:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Sep-2025 10:46:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Sep-2025 10:46:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[27-Sep-2025 04:24:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 04:24:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[30-Sep-2025 03:44:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 03:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[30-Sep-2025 05:10:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 05:10:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[30-Sep-2025 16:57:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 16:57:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[30-Sep-2025 16:58:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 16:58:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[30-Sep-2025 16:59:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 16:59:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[30-Sep-2025 17:00:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 17:00:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[30-Sep-2025 17:18:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 17:18:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[30-Sep-2025 17:21:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 17:21:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[30-Sep-2025 17:22:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 17:22:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[30-Sep-2025 17:24:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Sep-2025 17:24:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[01-Oct-2025 02:29:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Oct-2025 02:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[01-Oct-2025 04:59:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Oct-2025 04:59:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[01-Oct-2025 12:39:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Oct-2025 12:39:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[01-Oct-2025 19:55:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 00:37:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 00:37:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[22-Oct-2025 11:38:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Oct-2025 11:38:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[25-Oct-2025 13:09:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Oct-2025 13:09:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[25-Oct-2025 21:24:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Oct-2025 21:24:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[26-Oct-2025 16:45:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 16:45:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[26-Oct-2025 16:45:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 16:45:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[26-Oct-2025 16:46:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 16:46:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[26-Oct-2025 16:46:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 16:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[26-Oct-2025 20:33:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 20:33:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[26-Oct-2025 20:33:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 20:33:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[26-Oct-2025 20:40:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 20:40:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 20:40:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 20:40:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[26-Oct-2025 20:40:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 20:40:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[31-Oct-2025 14:27:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Oct-2025 14:27:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[31-Oct-2025 14:40:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Oct-2025 14:40:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[31-Oct-2025 14:41:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Oct-2025 14:41:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[31-Oct-2025 14:45:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Oct-2025 20:13:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Oct-2025 20:13:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[31-Oct-2025 20:13:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Oct-2025 20:13:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[01-Nov-2025 09:42:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 09:42:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[01-Nov-2025 09:46:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 09:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[01-Nov-2025 12:54:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 13:07:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 13:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[01-Nov-2025 15:42:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 15:42:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[01-Nov-2025 18:55:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 18:55:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[01-Nov-2025 23:32:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 23:32:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[02-Nov-2025 00:50:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 00:50:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[02-Nov-2025 02:18:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 18:33:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 02:23:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 02:23:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[05-Nov-2025 04:58:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 04:58:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[05-Nov-2025 12:50:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 12:50:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[05-Nov-2025 16:47:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 16:47:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[05-Nov-2025 16:50:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 16:50:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[05-Nov-2025 16:51:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 16:51:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[05-Nov-2025 16:55:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 16:55:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[05-Nov-2025 16:57:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 16:58:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 16:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[05-Nov-2025 17:02:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 17:02:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[05-Nov-2025 17:06:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 17:06:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[06-Nov-2025 00:02:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Nov-2025 00:02:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[11-Nov-2025 02:56:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Nov-2025 02:56:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[28-Nov-2025 05:09:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Nov-2025 05:09:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[01-Dec-2025 19:47:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Dec-2025 19:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[01-Dec-2025 19:55:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Dec-2025 00:29:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Dec-2025 00:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[03-Dec-2025 23:44:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Dec-2025 23:44:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[04-Dec-2025 01:14:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Dec-2025 01:14:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[04-Dec-2025 12:41:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Dec-2025 12:41:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[07-Dec-2025 09:35:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Dec-2025 01:18:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Dec-2025 01:18:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[10-Dec-2025 02:43:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 02:43:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[10-Dec-2025 03:24:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 03:24:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[10-Dec-2025 04:51:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 04:51:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[11-Dec-2025 02:22:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 02:22:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[11-Dec-2025 04:49:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 04:49:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[11-Dec-2025 12:38:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 12:38:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[11-Dec-2025 16:39:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 00:03:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 00:03:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[13-Dec-2025 07:41:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 07:41:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[13-Dec-2025 07:42:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 07:42:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[13-Dec-2025 07:43:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 07:44:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 07:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[13-Dec-2025 07:45:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 07:45:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[13-Dec-2025 19:08:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 19:08:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[13-Dec-2025 19:09:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 19:09:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[13-Dec-2025 19:10:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 19:11:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 19:11:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[13-Dec-2025 19:12:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 19:12:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[15-Dec-2025 10:13:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 10:13:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[15-Dec-2025 10:13:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 10:13:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[15-Dec-2025 10:14:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 10:21:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 10:21:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[15-Dec-2025 10:26:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 10:26:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[15-Dec-2025 10:27:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 10:27:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[15-Dec-2025 19:03:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 19:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[15-Dec-2025 19:30:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 19:30:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[15-Dec-2025 19:30:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 19:30:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[15-Dec-2025 19:37:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 19:37:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[15-Dec-2025 22:52:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 22:52:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[15-Dec-2025 22:52:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 22:53:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 22:53:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[17-Dec-2025 18:36:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 18:36:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[17-Dec-2025 18:39:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 18:39:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[18-Dec-2025 11:11:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Dec-2025 11:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[18-Dec-2025 12:34:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Dec-2025 12:34:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[18-Dec-2025 14:57:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Dec-2025 10:14:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Dec-2025 10:14:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[27-Dec-2025 01:12:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Jan-2026 11:04:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Jan-2026 11:04:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[07-Jan-2026 08:56:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 08:56:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[07-Jan-2026 14:10:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jan-2026 05:42:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jan-2026 05:42:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[10-Jan-2026 11:46:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 16:13:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 16:13:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[11-Jan-2026 16:13:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 20:18:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 20:18:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[11-Jan-2026 20:18:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 20:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[11-Jan-2026 23:43:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 23:43:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[13-Jan-2026 14:50:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jan-2026 14:50:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[13-Jan-2026 17:09:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jan-2026 17:09:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[14-Jan-2026 12:19:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Jan-2026 12:19:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[14-Jan-2026 13:28:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Jan-2026 13:28:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[16-Jan-2026 02:47:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 02:47:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[16-Jan-2026 05:29:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 05:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[16-Jan-2026 13:14:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 13:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[16-Jan-2026 20:22:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jan-2026 03:37:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jan-2026 03:37:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[22-Jan-2026 12:58:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jan-2026 12:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[22-Jan-2026 17:28:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jan-2026 17:28:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[22-Jan-2026 17:48:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jan-2026 17:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[22-Jan-2026 18:30:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jan-2026 21:25:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jan-2026 21:25:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[24-Jan-2026 01:34:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jan-2026 01:34:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[29-Jan-2026 04:53:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 04:53:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[29-Jan-2026 04:53:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 04:53:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 04:53:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[29-Jan-2026 07:21:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 07:21:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[29-Jan-2026 07:21:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 07:21:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[04-Feb-2026 01:52:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Feb-2026 01:52:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[10-Feb-2026 01:56:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 01:56:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[10-Feb-2026 01:56:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 01:56:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[10-Feb-2026 10:55:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 10:55:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[10-Feb-2026 10:56:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 10:56:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[10-Feb-2026 10:56:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 10:56:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[10-Feb-2026 10:57:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 10:57:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[10-Feb-2026 10:58:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 10:58:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[10-Feb-2026 11:03:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 11:51:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 11:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[10-Feb-2026 12:17:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Feb-2026 12:48:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Feb-2026 12:48:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[13-Feb-2026 23:27:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Feb-2026 23:27:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[14-Feb-2026 18:59:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Feb-2026 06:37:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Feb-2026 06:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[18-Feb-2026 00:41:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Feb-2026 00:41:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[19-Feb-2026 12:06:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Feb-2026 12:45:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Feb-2026 12:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[21-Feb-2026 13:00:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Feb-2026 13:00:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[21-Feb-2026 16:55:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Feb-2026 00:00:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Feb-2026 00:00:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[24-Feb-2026 16:37:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Feb-2026 16:37:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[24-Feb-2026 17:01:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Feb-2026 17:01:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[25-Feb-2026 08:15:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Feb-2026 08:15:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[25-Feb-2026 19:30:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Feb-2026 19:30:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[25-Feb-2026 21:11:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Feb-2026 21:11:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[25-Feb-2026 22:11:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Feb-2026 22:11:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[27-Feb-2026 09:59:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Feb-2026 09:59:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[27-Feb-2026 16:39:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Feb-2026 16:39:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[27-Feb-2026 17:12:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Feb-2026 17:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[03-Mar-2026 17:01:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 19:36:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[09-Mar-2026 19:36:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 19:36:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[09-Mar-2026 19:37:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 19:37:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[09-Mar-2026 19:37:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 19:38:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 19:38:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[11-Mar-2026 07:40:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 07:40:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[11-Mar-2026 07:41:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 07:41:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[11-Mar-2026 07:42:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 07:43:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 07:43:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[11-Mar-2026 08:03:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 08:03:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[12-Mar-2026 07:07:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Mar-2026 07:07:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[12-Mar-2026 07:07:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Mar-2026 07:07:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[12-Mar-2026 07:08:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Mar-2026 07:09:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Mar-2026 07:09:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[12-Mar-2026 07:19:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Mar-2026 07:19:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[12-Mar-2026 22:11:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Mar-2026 22:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[18-Mar-2026 07:12:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Mar-2026 08:32:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Mar-2026 08:32:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[20-Mar-2026 12:26:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 12:26:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[20-Mar-2026 12:26:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 12:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[20-Mar-2026 23:05:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 23:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[21-Mar-2026 00:08:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 00:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[21-Mar-2026 00:35:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 20:55:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 20:55:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[22-Mar-2026 06:51:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 07:43:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 07:43:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[22-Mar-2026 07:43:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 07:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[22-Mar-2026 14:04:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 14:04:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[22-Mar-2026 21:43:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 21:43:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[24-Mar-2026 02:51:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Mar-2026 02:51:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[24-Mar-2026 05:42:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Mar-2026 05:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[29-Mar-2026 01:29:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Mar-2026 01:29:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[29-Mar-2026 02:09:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Mar-2026 02:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[29-Mar-2026 08:13:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Mar-2026 08:13:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[29-Mar-2026 20:21:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 02:03:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 02:03:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[30-Mar-2026 08:49:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 08:49:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[03-Apr-2026 20:55:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Apr-2026 20:55:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[06-Apr-2026 19:17:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Apr-2026 02:36:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Apr-2026 02:36:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[09-Apr-2026 04:36:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Apr-2026 04:36:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[10-Apr-2026 11:35:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Apr-2026 11:35:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[11-Apr-2026 12:00:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 12:00:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[11-Apr-2026 15:50:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 15:50:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[12-Apr-2026 02:06:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 02:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[12-Apr-2026 07:11:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 14:15:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 19:23:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 19:23:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[13-Apr-2026 06:41:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Apr-2026 06:41:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[13-Apr-2026 18:09:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Apr-2026 18:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[13-Apr-2026 21:32:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Apr-2026 21:32:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[15-Apr-2026 01:24:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Apr-2026 01:24:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[15-Apr-2026 04:28:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Apr-2026 04:28:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Column.php on line 29
+[15-Apr-2026 19:52:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Apr-2026 19:52:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[15-Apr-2026 23:25:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Apr-2026 23:25:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[16-Apr-2026 12:07:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 12:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[16-Apr-2026 19:36:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 19:36:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\PredicateCombinator" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Criteria.php on line 29
+[17-Apr-2026 12:39:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Apr-2026 12:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/Offset.php on line 28
+[17-Apr-2026 12:49:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Apr-2026 12:49:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[19-Apr-2026 12:57:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Apr-2026 10:34:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Apr-2026 10:34:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[20-Apr-2026 12:50:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Apr-2026 12:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38
+[21-Apr-2026 08:10:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Apr-2026 08:10:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Csv\Query\Predicate" not found in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/csv/src/Query/Constraint/TwoColumns.php on line 38

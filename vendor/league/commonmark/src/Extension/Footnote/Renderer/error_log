@@ -1,0 +1,1690 @@
+[20-Jun-2025 12:20:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jun-2025 12:20:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[20-Jun-2025 18:59:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jun-2025 18:59:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[21-Jun-2025 00:44:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jun-2025 00:44:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[21-Jun-2025 01:11:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jun-2025 01:11:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[21-Jun-2025 02:47:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jun-2025 02:47:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[23-Jun-2025 11:21:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jun-2025 11:21:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[26-Jun-2025 04:39:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Jun-2025 04:39:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[26-Jun-2025 08:14:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Jun-2025 08:14:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[26-Jun-2025 09:31:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Jun-2025 09:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[27-Jun-2025 18:21:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jun-2025 18:21:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[28-Jun-2025 04:21:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 04:21:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[28-Jun-2025 10:00:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 10:00:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[28-Jun-2025 19:48:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 19:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[30-Jun-2025 02:24:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 02:24:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[30-Jun-2025 04:24:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 04:24:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[30-Jun-2025 13:38:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 13:38:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[01-Jul-2025 23:20:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 23:20:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[02-Jul-2025 08:39:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 08:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Jul-2025 14:41:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 14:41:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Jul-2025 17:03:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:03:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[02-Jul-2025 17:08:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:08:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Jul-2025 17:08:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:08:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[02-Jul-2025 17:21:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Jul-2025 17:32:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:32:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[02-Jul-2025 17:33:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:33:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Jul-2025 17:34:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:34:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[02-Jul-2025 17:35:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:35:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Jul-2025 17:43:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:43:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[02-Jul-2025 17:43:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:43:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Jul-2025 17:45:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:45:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[02-Jul-2025 17:46:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:46:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Jul-2025 17:53:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:53:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[02-Jul-2025 18:09:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 18:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[02-Jul-2025 18:09:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 18:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Jul-2025 18:10:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 18:10:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[02-Jul-2025 18:11:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 18:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Jul-2025 18:54:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 18:54:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Jul-2025 10:44:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:44:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Jul-2025 10:44:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:44:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Jul-2025 14:53:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 14:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Jul-2025 15:20:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 15:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Jul-2025 15:21:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 15:21:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Jul-2025 15:22:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 15:22:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Jul-2025 15:23:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 15:23:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Jul-2025 15:33:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 15:33:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Jul-2025 16:43:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 16:43:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Jul-2025 16:44:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 16:44:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Jul-2025 16:45:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 16:45:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Jul-2025 16:46:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 16:46:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Jul-2025 16:56:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 16:56:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[05-Jul-2025 15:22:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Jul-2025 15:22:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[06-Jul-2025 08:01:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 08:01:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[06-Jul-2025 09:18:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 09:18:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[06-Jul-2025 10:20:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 10:20:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[07-Jul-2025 17:50:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jul-2025 17:50:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[08-Jul-2025 11:04:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 11:04:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[08-Jul-2025 11:27:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 11:27:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[08-Jul-2025 13:47:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 13:47:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[10-Jul-2025 05:49:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jul-2025 05:49:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[10-Jul-2025 07:58:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jul-2025 07:58:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[10-Jul-2025 09:45:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jul-2025 09:45:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[11-Jul-2025 09:39:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jul-2025 09:39:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[12-Jul-2025 14:45:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jul-2025 14:45:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[12-Jul-2025 14:52:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jul-2025 14:52:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[13-Jul-2025 01:02:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 01:02:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[13-Jul-2025 12:03:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 12:03:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[13-Jul-2025 16:23:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 16:23:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[13-Jul-2025 18:25:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 18:25:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[15-Jul-2025 08:53:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Jul-2025 08:53:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[15-Jul-2025 16:54:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Jul-2025 16:54:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[17-Jul-2025 05:23:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jul-2025 05:23:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[18-Jul-2025 05:17:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jul-2025 05:17:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[18-Jul-2025 20:46:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jul-2025 20:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[19-Jul-2025 04:13:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jul-2025 04:13:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[20-Jul-2025 02:27:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jul-2025 02:27:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[20-Jul-2025 02:28:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jul-2025 02:28:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[20-Jul-2025 02:29:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jul-2025 02:29:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[21-Jul-2025 04:34:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jul-2025 04:34:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[21-Jul-2025 05:31:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jul-2025 05:31:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[21-Jul-2025 20:42:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jul-2025 20:42:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[23-Jul-2025 01:41:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 01:41:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[23-Jul-2025 01:43:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 01:43:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[23-Jul-2025 01:44:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 01:44:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[23-Jul-2025 01:45:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 01:45:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[23-Jul-2025 01:53:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 01:53:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[23-Jul-2025 02:04:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 02:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[23-Jul-2025 02:05:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 02:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[23-Jul-2025 02:06:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 02:06:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[23-Jul-2025 02:08:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 02:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[23-Jul-2025 15:52:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 15:52:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[23-Jul-2025 18:32:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 18:32:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[25-Jul-2025 10:19:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Jul-2025 10:19:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[31-Jul-2025 11:59:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jul-2025 11:59:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[31-Jul-2025 16:46:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jul-2025 16:46:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[31-Jul-2025 21:22:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jul-2025 21:22:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[31-Jul-2025 23:18:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jul-2025 23:18:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Aug-2025 05:51:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 05:51:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Aug-2025 05:52:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 05:52:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[02-Aug-2025 05:53:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 05:53:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[02-Aug-2025 05:54:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 05:54:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Aug-2025 15:30:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 15:30:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Aug-2025 15:31:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 15:31:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Aug-2025 15:33:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 15:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Aug-2025 15:35:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 15:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Aug-2025 15:41:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 15:41:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Aug-2025 15:43:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 15:43:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Aug-2025 17:26:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 17:26:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Aug-2025 17:33:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 17:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Aug-2025 17:37:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 17:37:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Aug-2025 17:38:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Aug-2025 17:38:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[18-Aug-2025 14:41:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Aug-2025 14:41:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[18-Aug-2025 16:21:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Aug-2025 16:21:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[18-Aug-2025 16:36:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Aug-2025 16:36:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[18-Aug-2025 19:35:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Aug-2025 19:35:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[19-Aug-2025 00:12:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Aug-2025 00:12:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[22-Aug-2025 06:50:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Aug-2025 06:50:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[22-Aug-2025 06:58:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Aug-2025 06:58:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[22-Aug-2025 07:07:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Aug-2025 07:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[31-Aug-2025 08:01:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 08:01:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[31-Aug-2025 11:00:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 11:00:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[31-Aug-2025 12:14:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 12:14:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[31-Aug-2025 12:15:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 12:15:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[31-Aug-2025 15:12:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:12:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[31-Aug-2025 15:14:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:14:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[31-Aug-2025 15:17:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:17:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[31-Aug-2025 15:19:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:19:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[31-Aug-2025 15:31:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:31:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[31-Aug-2025 15:33:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[31-Aug-2025 15:38:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:38:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[31-Aug-2025 15:39:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:39:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[31-Aug-2025 15:50:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:50:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[31-Aug-2025 15:50:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:50:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[31-Aug-2025 15:54:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:54:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[31-Aug-2025 15:56:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 15:56:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[31-Aug-2025 16:00:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 16:00:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[31-Aug-2025 16:02:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 16:02:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[31-Aug-2025 16:10:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 16:10:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[31-Aug-2025 16:19:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Aug-2025 16:19:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[03-Sep-2025 06:24:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Sep-2025 06:24:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[03-Sep-2025 06:24:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Sep-2025 06:24:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[03-Sep-2025 06:24:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Sep-2025 06:24:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[03-Sep-2025 06:59:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Sep-2025 06:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[21-Sep-2025 05:47:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 05:47:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[21-Sep-2025 07:32:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 07:32:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[24-Sep-2025 07:29:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 07:29:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[24-Sep-2025 12:06:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 12:06:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[27-Sep-2025 03:33:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 03:33:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[27-Sep-2025 03:34:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 03:34:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[27-Sep-2025 03:42:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 03:42:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[27-Sep-2025 03:43:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 03:43:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[27-Sep-2025 22:03:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 22:03:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[27-Sep-2025 22:03:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 22:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[27-Sep-2025 22:03:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 22:03:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[27-Sep-2025 22:03:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 22:03:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[28-Sep-2025 19:13:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:13:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[28-Sep-2025 19:13:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:13:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[28-Sep-2025 19:14:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:14:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[28-Sep-2025 19:15:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:15:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[28-Sep-2025 19:22:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:22:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[28-Sep-2025 19:22:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:22:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[28-Sep-2025 19:27:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:27:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[28-Sep-2025 19:28:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:28:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[28-Sep-2025 19:33:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:33:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[28-Sep-2025 19:39:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:39:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[28-Sep-2025 19:42:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:42:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[28-Sep-2025 19:43:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 19:43:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[01-Oct-2025 00:57:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Oct-2025 00:57:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[01-Oct-2025 17:29:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Oct-2025 17:29:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[02-Oct-2025 06:14:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 06:14:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[03-Oct-2025 11:26:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Oct-2025 11:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[03-Oct-2025 14:26:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Oct-2025 14:26:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[03-Oct-2025 20:57:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Oct-2025 20:57:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[03-Oct-2025 22:36:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Oct-2025 22:36:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[05-Oct-2025 07:22:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Oct-2025 07:22:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[25-Oct-2025 22:14:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Oct-2025 22:14:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[29-Oct-2025 06:19:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Oct-2025 06:19:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[29-Oct-2025 08:41:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Oct-2025 08:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[29-Oct-2025 09:21:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Oct-2025 09:21:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[03-Nov-2025 05:33:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 05:33:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[03-Nov-2025 05:39:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 05:39:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[03-Nov-2025 05:40:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 05:40:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[03-Nov-2025 05:41:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 05:41:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Nov-2025 08:26:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Nov-2025 08:26:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:26:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Nov-2025 08:28:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:28:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Nov-2025 08:32:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:32:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Nov-2025 08:33:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:33:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Nov-2025 08:36:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:36:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Nov-2025 08:40:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Nov-2025 08:43:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:43:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Nov-2025 08:45:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:45:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[04-Nov-2025 08:49:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:49:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Nov-2025 08:55:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Nov-2025 08:56:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 08:56:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Nov-2025 09:00:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 09:00:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[08-Nov-2025 11:02:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Nov-2025 11:02:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[08-Nov-2025 14:03:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Nov-2025 14:03:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[08-Nov-2025 18:28:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Nov-2025 18:28:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[08-Nov-2025 20:49:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Nov-2025 20:49:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[30-Nov-2025 01:53:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Nov-2025 01:53:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[30-Nov-2025 03:55:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Nov-2025 03:55:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[01-Dec-2025 11:31:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Dec-2025 11:31:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[01-Dec-2025 22:27:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Dec-2025 22:27:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[03-Dec-2025 10:26:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Dec-2025 10:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[03-Dec-2025 23:37:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Dec-2025 23:37:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Dec-2025 17:01:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Dec-2025 17:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[04-Dec-2025 20:24:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Dec-2025 20:24:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[12-Dec-2025 11:21:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 11:21:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[12-Dec-2025 14:29:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 14:29:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[12-Dec-2025 19:30:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 19:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[12-Dec-2025 20:59:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 20:59:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[16-Dec-2025 04:46:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Dec-2025 04:46:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[16-Dec-2025 13:45:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Dec-2025 13:45:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[17-Dec-2025 06:25:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 06:25:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[18-Dec-2025 05:46:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Dec-2025 05:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[19-Dec-2025 03:19:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Dec-2025 03:19:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[19-Dec-2025 03:19:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Dec-2025 03:19:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[19-Dec-2025 03:20:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Dec-2025 03:20:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[19-Dec-2025 03:21:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Dec-2025 03:21:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[01-Jan-2026 17:03:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jan-2026 17:03:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[01-Jan-2026 17:55:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jan-2026 17:55:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[01-Jan-2026 18:33:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jan-2026 18:33:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[01-Jan-2026 19:09:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jan-2026 19:09:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[04-Jan-2026 07:39:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jan-2026 07:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[04-Jan-2026 14:20:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jan-2026 14:20:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[07-Jan-2026 00:57:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 00:57:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[07-Jan-2026 06:09:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 06:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[07-Jan-2026 06:27:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 06:27:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[07-Jan-2026 07:41:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 07:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[07-Jan-2026 08:44:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 08:44:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[07-Jan-2026 09:43:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 09:43:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[07-Jan-2026 11:29:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 11:29:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[07-Jan-2026 12:54:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 12:54:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[07-Jan-2026 18:18:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 18:18:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[08-Jan-2026 05:45:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jan-2026 05:45:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[11-Jan-2026 19:39:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 19:39:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[11-Jan-2026 19:40:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 19:40:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[12-Jan-2026 15:30:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 15:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[12-Jan-2026 15:31:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 15:31:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[12-Jan-2026 15:31:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 15:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[12-Jan-2026 15:32:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 15:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[16-Jan-2026 11:04:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 11:04:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[16-Jan-2026 14:23:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 14:23:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[16-Jan-2026 22:28:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 22:28:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[17-Jan-2026 00:20:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jan-2026 00:20:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[17-Jan-2026 23:24:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jan-2026 23:24:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[19-Jan-2026 02:31:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jan-2026 02:31:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[20-Jan-2026 18:33:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jan-2026 18:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[20-Jan-2026 22:50:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jan-2026 22:50:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[21-Jan-2026 06:28:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jan-2026 06:28:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[22-Jan-2026 16:06:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jan-2026 16:06:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[24-Jan-2026 06:06:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jan-2026 06:06:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[24-Jan-2026 06:06:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jan-2026 06:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[24-Jan-2026 06:06:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jan-2026 06:06:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[24-Jan-2026 06:07:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jan-2026 06:07:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[24-Jan-2026 06:07:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jan-2026 06:07:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[24-Jan-2026 06:08:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jan-2026 06:08:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[28-Jan-2026 04:35:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:35:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[28-Jan-2026 04:35:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:35:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[28-Jan-2026 04:35:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:35:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[28-Jan-2026 04:40:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[28-Jan-2026 04:41:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:41:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[28-Jan-2026 04:43:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:43:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[28-Jan-2026 04:44:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:44:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[28-Jan-2026 04:45:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jan-2026 04:45:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[29-Jan-2026 06:12:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 06:12:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[29-Jan-2026 06:12:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 06:12:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[29-Jan-2026 08:24:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 08:24:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[29-Jan-2026 09:26:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 09:26:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[06-Feb-2026 02:57:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Feb-2026 02:57:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[06-Feb-2026 09:20:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Feb-2026 09:20:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[08-Feb-2026 12:50:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Feb-2026 12:50:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[08-Feb-2026 15:06:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Feb-2026 15:06:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[08-Feb-2026 17:55:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Feb-2026 17:55:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[08-Feb-2026 18:38:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Feb-2026 18:38:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[10-Feb-2026 19:46:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 19:46:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[10-Feb-2026 19:47:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 19:47:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[10-Feb-2026 19:57:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 19:57:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[10-Feb-2026 20:00:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 20:00:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[11-Feb-2026 06:48:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Feb-2026 06:48:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[11-Feb-2026 06:48:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Feb-2026 06:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[11-Feb-2026 06:49:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Feb-2026 06:49:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[11-Feb-2026 09:17:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Feb-2026 09:17:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[12-Feb-2026 04:21:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Feb-2026 04:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[12-Feb-2026 05:29:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Feb-2026 05:29:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[23-Feb-2026 11:50:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Feb-2026 11:50:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[23-Feb-2026 14:00:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Feb-2026 14:00:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[23-Feb-2026 19:15:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Feb-2026 19:15:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[24-Feb-2026 01:11:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Feb-2026 01:11:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[08-Mar-2026 09:38:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Mar-2026 09:38:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[08-Mar-2026 09:46:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Mar-2026 09:46:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[08-Mar-2026 09:47:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Mar-2026 09:47:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[08-Mar-2026 09:48:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Mar-2026 09:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[10-Mar-2026 05:06:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 05:06:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[10-Mar-2026 05:13:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 05:13:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[10-Mar-2026 05:13:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 05:13:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[10-Mar-2026 06:38:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 06:38:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[10-Mar-2026 06:48:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 06:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[10-Mar-2026 06:48:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 06:48:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[10-Mar-2026 07:37:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 07:37:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[10-Mar-2026 08:02:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 08:02:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[10-Mar-2026 08:04:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 08:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[13-Mar-2026 05:55:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Mar-2026 05:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[13-Mar-2026 06:55:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Mar-2026 06:55:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[14-Mar-2026 19:49:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Mar-2026 19:49:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[14-Mar-2026 20:22:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Mar-2026 20:22:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[14-Mar-2026 20:23:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Mar-2026 20:23:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[14-Mar-2026 20:24:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Mar-2026 20:24:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[16-Mar-2026 19:26:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Mar-2026 19:26:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[18-Mar-2026 08:05:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Mar-2026 08:05:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[18-Mar-2026 08:11:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Mar-2026 08:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[18-Mar-2026 11:14:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Mar-2026 11:14:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[19-Mar-2026 13:05:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Mar-2026 13:05:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[21-Mar-2026 07:59:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 07:59:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[21-Mar-2026 08:00:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 08:00:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[21-Mar-2026 08:01:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 08:01:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[21-Mar-2026 08:02:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 08:02:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[22-Mar-2026 03:38:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 03:38:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[22-Mar-2026 04:00:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 04:00:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[22-Mar-2026 04:03:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 04:03:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[22-Mar-2026 10:04:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 10:04:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[27-Mar-2026 11:04:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Mar-2026 11:04:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[30-Mar-2026 11:10:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 11:10:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[30-Mar-2026 13:55:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 13:55:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[30-Mar-2026 19:08:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 19:08:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[30-Mar-2026 20:35:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 20:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[10-Apr-2026 23:18:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Apr-2026 23:18:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[10-Apr-2026 23:47:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Apr-2026 23:47:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[11-Apr-2026 03:50:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 03:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[11-Apr-2026 10:24:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 10:24:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[11-Apr-2026 13:01:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 13:01:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[11-Apr-2026 14:57:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 14:57:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26
+[11-Apr-2026 16:10:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 16:10:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[11-Apr-2026 21:23:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 21:23:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRefRenderer.php on line 26
+[13-Apr-2026 19:58:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Apr-2026 19:58:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[16-Apr-2026 02:33:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 02:33:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteRenderer.php on line 26
+[16-Apr-2026 20:12:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 20:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteBackrefRenderer.php on line 26
+[20-Apr-2026 00:52:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Apr-2026 00:52:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/league/commonmark/src/Extension/Footnote/Renderer/FootnoteContainerRenderer.php on line 26

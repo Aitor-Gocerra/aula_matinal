@@ -1,0 +1,407 @@
+[07-Jun-2025 13:58:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jun-2025 13:58:36 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[07-Jun-2025 14:04:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jun-2025 14:04:34 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[07-Jun-2025 14:44:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 03:02:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 03:02:44 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[08-Jun-2025 03:05:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 03:05:32 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[08-Jun-2025 04:07:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 04:07:52 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[08-Jun-2025 04:08:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 04:08:08 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[08-Jun-2025 06:39:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 20:53:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 20:53:36 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[08-Jun-2025 20:54:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 20:54:40 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[08-Jun-2025 21:09:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 21:09:49 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[08-Jun-2025 21:10:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jun-2025 21:10:06 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[12-Jun-2025 21:11:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jun-2025 21:14:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jun-2025 21:14:23 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[12-Jun-2025 23:52:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jun-2025 23:52:08 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[16-Jun-2025 12:57:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 12:57:23 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[16-Jun-2025 13:16:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 13:16:42 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[16-Jun-2025 23:18:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 23:18:53 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[17-Jun-2025 02:23:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jun-2025 02:23:08 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[17-Jun-2025 22:48:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jun-2025 22:48:04 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[18-Jun-2025 01:30:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 01:30:48 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[19-Jun-2025 01:10:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jun-2025 01:10:57 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[19-Jun-2025 01:38:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jun-2025 01:38:10 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[20-Jun-2025 05:06:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jun-2025 13:59:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Jun-2025 13:59:08 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[21-Jun-2025 03:44:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jun-2025 03:44:04 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[24-Jun-2025 18:25:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jun-2025 18:25:30 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[25-Jun-2025 03:31:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Jun-2025 03:31:30 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[28-Jun-2025 04:20:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 04:20:17 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[28-Jun-2025 19:53:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 19:53:06 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[30-Jun-2025 20:37:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 20:37:48 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[02-Jul-2025 01:55:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 01:55:15 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[02-Jul-2025 01:58:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 01:58:17 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[02-Jul-2025 02:46:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 03:32:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 03:32:58 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[02-Jul-2025 05:29:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 05:29:17 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[02-Jul-2025 05:32:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 05:32:06 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[02-Jul-2025 05:42:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:18:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:18:37 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[04-Jul-2025 10:33:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:33:31 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[05-Jul-2025 21:35:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Jul-2025 21:35:55 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[05-Jul-2025 21:36:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Jul-2025 21:36:42 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[05-Jul-2025 22:03:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Jul-2025 22:03:54 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[05-Jul-2025 22:04:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Jul-2025 22:04:58 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[06-Jul-2025 11:38:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 11:38:02 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[06-Jul-2025 23:03:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 23:03:04 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[08-Jul-2025 15:34:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 15:34:10 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[09-Jul-2025 14:13:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Jul-2025 14:13:29 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[11-Jul-2025 10:20:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jul-2025 10:20:04 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Jul-2025 13:00:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jul-2025 13:00:52 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[13-Jul-2025 14:54:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 14:54:24 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[13-Jul-2025 16:34:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 16:34:52 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[15-Jul-2025 08:52:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Jul-2025 08:52:34 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[18-Jul-2025 06:40:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jul-2025 06:40:05 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[21-Jul-2025 05:14:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jul-2025 05:14:50 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[23-Jul-2025 02:22:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 12:31:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Jul-2025 12:31:45 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[29-Jul-2025 06:11:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jul-2025 13:38:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jul-2025 13:38:26 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[30-Jul-2025 01:28:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jul-2025 01:28:40 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[01-Aug-2025 09:29:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Aug-2025 09:29:18 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[01-Aug-2025 09:41:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Aug-2025 09:41:58 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[01-Aug-2025 10:38:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 05:02:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 05:02:44 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[05-Aug-2025 05:19:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 05:19:30 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[06-Aug-2025 08:11:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Aug-2025 08:11:57 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[06-Aug-2025 08:18:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Aug-2025 08:18:18 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[16-Aug-2025 08:58:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 08:58:52 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[16-Aug-2025 12:56:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 12:56:28 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[16-Aug-2025 14:29:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Aug-2025 16:54:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Aug-2025 16:54:19 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[18-Aug-2025 16:55:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Aug-2025 16:55:51 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[18-Aug-2025 17:46:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Aug-2025 09:27:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Aug-2025 09:27:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Aug-2025 09:27:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Aug-2025 09:27:13 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[27-Aug-2025 09:27:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Aug-2025 09:27:17 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[28-Aug-2025 16:59:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Aug-2025 16:59:45 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[28-Aug-2025 16:59:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Aug-2025 16:59:46 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[09-Sep-2025 14:33:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Sep-2025 21:13:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Sep-2025 21:13:18 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[09-Sep-2025 21:13:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Sep-2025 21:13:19 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[20-Sep-2025 22:07:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 07:38:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Sep-2025 07:39:00 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[24-Sep-2025 00:37:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 00:37:34 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[24-Sep-2025 20:07:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 20:07:36 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[24-Sep-2025 20:22:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 20:22:34 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[24-Sep-2025 21:47:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 04:56:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 04:56:37 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[27-Sep-2025 06:13:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 07:10:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 07:10:13 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[28-Sep-2025 15:59:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 15:59:34 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[28-Sep-2025 16:03:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 16:03:42 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[28-Sep-2025 16:17:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 16:17:45 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[28-Sep-2025 16:23:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 16:23:05 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[28-Sep-2025 16:26:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 16:26:51 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[28-Sep-2025 16:41:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 16:41:21 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[28-Sep-2025 16:43:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 16:43:31 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[01-Oct-2025 04:25:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Oct-2025 11:16:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Oct-2025 11:16:36 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[02-Oct-2025 00:36:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 00:36:29 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[29-Oct-2025 09:44:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Oct-2025 09:44:00 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[01-Nov-2025 11:20:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 16:11:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 16:11:19 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[01-Nov-2025 16:12:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 16:12:22 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[01-Nov-2025 17:28:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 20:44:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 06:32:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 06:32:34 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[04-Nov-2025 06:36:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 06:36:04 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[04-Nov-2025 06:47:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 06:47:55 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[04-Nov-2025 06:57:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 06:57:18 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[04-Nov-2025 07:03:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 07:03:49 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[04-Nov-2025 08:17:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 09:26:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 09:26:02 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[04-Nov-2025 09:30:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 09:30:56 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[04-Nov-2025 16:34:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 16:34:32 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[04-Nov-2025 17:38:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 17:38:47 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[05-Nov-2025 04:23:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 10:57:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 10:57:14 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[05-Nov-2025 23:45:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 23:45:55 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[14-Nov-2025 01:31:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Nov-2025 01:31:20 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[01-Dec-2025 11:22:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Dec-2025 11:22:14 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[02-Dec-2025 00:05:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 03:58:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 04:04:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 10:48:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 10:48:23 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Dec-2025 00:06:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 00:06:00 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[13-Dec-2025 03:03:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 03:03:20 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[13-Dec-2025 12:16:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Dec-2025 12:16:26 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[15-Dec-2025 22:41:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Dec-2025 23:38:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Dec-2025 23:38:58 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[16-Dec-2025 23:39:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Dec-2025 23:39:53 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[17-Dec-2025 04:34:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 04:34:05 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[17-Dec-2025 04:35:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 04:35:10 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[17-Dec-2025 04:51:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 04:51:02 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[17-Dec-2025 04:51:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 04:51:35 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[17-Dec-2025 05:03:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 05:03:01 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[17-Dec-2025 05:04:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 05:04:03 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[17-Dec-2025 05:16:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 05:16:31 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[17-Dec-2025 05:17:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 05:17:08 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[18-Dec-2025 03:09:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Dec-2025 03:09:52 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[18-Dec-2025 03:10:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Dec-2025 03:10:51 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[18-Dec-2025 05:21:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Dec-2025 14:57:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Dec-2025 15:25:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Dec-2025 15:25:19 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[23-Dec-2025 18:20:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Dec-2025 18:20:49 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[27-Dec-2025 04:45:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Dec-2025 04:45:11 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[07-Jan-2026 04:34:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 08:14:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 08:14:13 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[07-Jan-2026 08:50:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 08:50:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 08:50:31 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[07-Jan-2026 12:51:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 13:04:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 13:04:26 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[11-Jan-2026 05:41:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 05:41:46 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Jan-2026 11:38:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 11:38:21 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[12-Jan-2026 08:14:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 08:14:30 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[12-Jan-2026 08:14:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 08:15:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 08:15:16 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[13-Jan-2026 22:00:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jan-2026 22:00:24 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[13-Jan-2026 23:39:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jan-2026 23:39:49 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[14-Jan-2026 00:27:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Jan-2026 00:27:32 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[14-Jan-2026 02:07:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Jan-2026 04:13:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Jan-2026 04:13:46 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[14-Jan-2026 08:39:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jan-2026 22:15:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Jan-2026 02:45:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Jan-2026 02:45:40 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[29-Jan-2026 08:21:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 08:21:27 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[29-Jan-2026 08:22:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 08:22:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 08:22:22 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[08-Feb-2026 12:43:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Feb-2026 16:06:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Feb-2026 16:06:06 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[09-Feb-2026 17:50:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Feb-2026 19:29:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Feb-2026 21:04:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Feb-2026 21:04:23 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[09-Feb-2026 21:12:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Feb-2026 21:12:51 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[10-Feb-2026 08:19:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 08:19:12 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[10-Feb-2026 08:20:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 08:20:03 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[10-Feb-2026 09:13:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Feb-2026 06:50:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Feb-2026 06:50:20 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[14-Feb-2026 03:27:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Feb-2026 03:27:03 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[17-Feb-2026 13:16:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Feb-2026 13:16:09 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[19-Feb-2026 10:15:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Feb-2026 13:02:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Feb-2026 19:50:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Feb-2026 19:50:01 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[20-Feb-2026 02:01:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Feb-2026 02:01:12 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[25-Feb-2026 00:18:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Feb-2026 00:18:06 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[09-Mar-2026 18:26:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 18:33:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 23:34:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 23:34:45 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[09-Mar-2026 23:34:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 23:34:56 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[10-Mar-2026 02:05:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 02:05:35 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[10-Mar-2026 05:00:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 05:29:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 06:15:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Mar-2026 06:15:39 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Mar-2026 01:36:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 01:36:44 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[11-Mar-2026 01:49:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 01:49:36 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Mar-2026 01:54:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 01:54:37 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Mar-2026 02:49:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 02:49:10 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[12-Mar-2026 19:54:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Mar-2026 08:28:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Mar-2026 08:28:51 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[15-Mar-2026 18:21:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Mar-2026 18:21:43 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[15-Mar-2026 18:26:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Mar-2026 18:26:00 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[15-Mar-2026 22:55:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Mar-2026 22:55:40 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[15-Mar-2026 23:01:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Mar-2026 23:01:50 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[16-Mar-2026 19:42:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Mar-2026 19:42:16 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[20-Mar-2026 19:26:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 19:26:32 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[20-Mar-2026 19:43:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 19:43:01 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[20-Mar-2026 20:33:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 22:06:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 23:05:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 23:05:54 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[20-Mar-2026 23:09:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 23:09:09 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[22-Mar-2026 12:16:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 12:16:03 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[23-Mar-2026 18:12:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Mar-2026 02:48:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Mar-2026 02:48:56 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[28-Mar-2026 03:32:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Mar-2026 03:32:37 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[28-Mar-2026 10:27:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 17:47:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Mar-2026 17:47:25 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Apr-2026 18:03:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 19:17:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 19:17:08 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[11-Apr-2026 21:59:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 06:28:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 06:28:17 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[12-Apr-2026 07:15:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 07:15:48 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[12-Apr-2026 22:15:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 22:15:17 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[14-Apr-2026 09:45:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Apr-2026 09:45:01 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[14-Apr-2026 13:54:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Apr-2026 13:54:20 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[14-Apr-2026 22:48:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Apr-2026 22:48:49 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[16-Apr-2026 00:24:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 00:25:00 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[16-Apr-2026 15:35:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 15:35:27 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10
+[16-Apr-2026 19:43:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 19:43:07 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Conditional.php on line 12
+[21-Apr-2026 15:53:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Apr-2026 18:14:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Apr-2026 18:14:04 UTC] PHP Fatal error:  Trait "PhpOffice\PhpSpreadsheet\Calculation\ArrayEnabled" not found in /home/proyectosevg/public_html/12/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Calculation/Logical/Operations.php on line 10

@@ -1,0 +1,1630 @@
+[16-Jun-2025 08:19:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 08:19:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[16-Jun-2025 08:26:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 08:26:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[16-Jun-2025 08:26:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 08:26:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[16-Jun-2025 08:30:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 08:30:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Jun-2025 21:29:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 21:29:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[16-Jun-2025 21:32:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 21:32:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Jun-2025 22:16:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jun-2025 22:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[17-Jun-2025 00:01:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jun-2025 00:01:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[17-Jun-2025 21:33:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jun-2025 21:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[17-Jun-2025 21:51:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jun-2025 21:51:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[17-Jun-2025 22:06:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jun-2025 22:06:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[17-Jun-2025 22:10:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jun-2025 22:10:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[18-Jun-2025 04:01:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 04:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[18-Jun-2025 06:41:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 06:41:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[18-Jun-2025 08:29:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 08:29:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[18-Jun-2025 21:28:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 21:28:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[18-Jun-2025 21:34:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 21:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[18-Jun-2025 21:38:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 21:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[18-Jun-2025 21:44:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 21:44:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[18-Jun-2025 22:06:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jun-2025 22:06:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[24-Jun-2025 15:39:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jun-2025 15:39:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[24-Jun-2025 16:23:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jun-2025 16:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[24-Jun-2025 21:06:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Jun-2025 21:06:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[25-Jun-2025 08:23:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Jun-2025 08:23:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[26-Jun-2025 02:42:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Jun-2025 02:42:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[27-Jun-2025 16:02:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jun-2025 16:02:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[27-Jun-2025 17:03:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jun-2025 17:03:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[27-Jun-2025 17:43:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jun-2025 17:43:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[28-Jun-2025 06:55:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Jun-2025 06:55:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[29-Jun-2025 10:53:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jun-2025 10:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[30-Jun-2025 02:18:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 02:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[30-Jun-2025 11:17:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 11:17:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[30-Jun-2025 17:45:58 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jun-2025 17:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[01-Jul-2025 00:41:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 00:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[01-Jul-2025 00:57:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 00:57:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[01-Jul-2025 01:44:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 01:44:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[01-Jul-2025 06:55:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 06:55:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[01-Jul-2025 07:21:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 07:21:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[01-Jul-2025 11:09:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 11:09:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[01-Jul-2025 12:43:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 12:43:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[01-Jul-2025 20:55:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Jul-2025 20:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Jul-2025 05:40:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 05:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[02-Jul-2025 10:39:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 10:39:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Jul-2025 14:12:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 14:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[02-Jul-2025 17:22:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jul-2025 17:22:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[03-Jul-2025 05:14:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 05:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[03-Jul-2025 07:36:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 07:36:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[03-Jul-2025 07:51:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 07:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[03-Jul-2025 07:52:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 07:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[03-Jul-2025 07:54:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 07:54:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[03-Jul-2025 08:15:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 08:15:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[03-Jul-2025 08:16:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 08:16:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[03-Jul-2025 08:17:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 08:17:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[03-Jul-2025 08:18:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 08:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[03-Jul-2025 08:25:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Jul-2025 08:25:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[04-Jul-2025 10:05:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:05:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[04-Jul-2025 10:06:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:06:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[04-Jul-2025 10:32:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 10:32:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[04-Jul-2025 11:24:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Jul-2025 11:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[06-Jul-2025 06:52:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 06:52:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[06-Jul-2025 08:05:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 08:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[06-Jul-2025 09:11:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 09:11:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[06-Jul-2025 22:14:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Jul-2025 22:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[08-Jul-2025 11:50:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 11:50:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[08-Jul-2025 11:57:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 11:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[08-Jul-2025 13:38:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Jul-2025 13:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[09-Jul-2025 10:53:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Jul-2025 10:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[10-Jul-2025 05:53:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jul-2025 05:53:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[10-Jul-2025 09:09:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jul-2025 09:09:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[10-Jul-2025 09:40:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jul-2025 09:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[11-Jul-2025 12:41:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jul-2025 12:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[12-Jul-2025 16:03:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jul-2025 16:03:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[12-Jul-2025 19:32:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jul-2025 19:32:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[13-Jul-2025 05:23:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 05:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[13-Jul-2025 17:22:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Jul-2025 17:22:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[15-Jul-2025 17:58:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Jul-2025 17:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Jul-2025 18:32:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Jul-2025 18:32:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[16-Jul-2025 00:22:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jul-2025 00:22:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Jul-2025 07:55:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jul-2025 07:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[16-Jul-2025 11:02:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jul-2025 11:02:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[17-Jul-2025 16:37:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jul-2025 16:37:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[17-Jul-2025 21:29:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jul-2025 21:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[18-Jul-2025 17:53:44 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jul-2025 17:53:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[18-Jul-2025 23:31:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Jul-2025 23:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[19-Jul-2025 05:22:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jul-2025 05:22:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[19-Jul-2025 06:02:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jul-2025 06:02:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[19-Jul-2025 22:36:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Jul-2025 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[21-Jul-2025 17:42:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Jul-2025 17:42:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[22-Jul-2025 00:11:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jul-2025 00:11:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[22-Jul-2025 07:13:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jul-2025 07:13:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[22-Jul-2025 07:23:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jul-2025 07:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[22-Jul-2025 09:12:07 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jul-2025 09:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[25-Jul-2025 08:37:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Jul-2025 08:37:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[25-Jul-2025 08:54:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Jul-2025 08:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[25-Jul-2025 11:22:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Jul-2025 11:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[25-Jul-2025 11:53:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Jul-2025 11:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[27-Jul-2025 04:11:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jul-2025 04:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[29-Jul-2025 05:04:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jul-2025 05:04:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[29-Jul-2025 08:10:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jul-2025 08:10:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[29-Jul-2025 08:54:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jul-2025 08:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[29-Jul-2025 22:29:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jul-2025 22:29:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[31-Jul-2025 10:47:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jul-2025 10:47:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[01-Aug-2025 03:11:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Aug-2025 03:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Aug-2025 01:50:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 01:50:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[02-Aug-2025 05:24:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 05:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[02-Aug-2025 22:10:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:10:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Aug-2025 22:11:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Aug-2025 22:33:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[02-Aug-2025 22:37:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[02-Aug-2025 22:49:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:49:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[02-Aug-2025 22:54:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:54:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Aug-2025 22:55:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[02-Aug-2025 22:57:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Aug-2025 22:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[05-Aug-2025 05:32:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Aug-2025 05:32:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[07-Aug-2025 00:16:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Aug-2025 00:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[09-Aug-2025 18:39:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Aug-2025 18:39:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[09-Aug-2025 18:39:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Aug-2025 18:39:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[09-Aug-2025 21:07:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Aug-2025 21:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[10-Aug-2025 15:47:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Aug-2025 15:47:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[13-Aug-2025 18:12:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[13-Aug-2025 18:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[14-Aug-2025 19:37:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Aug-2025 19:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[15-Aug-2025 08:53:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 08:53:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[15-Aug-2025 08:53:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 08:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[15-Aug-2025 08:53:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 08:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Aug-2025 08:53:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 08:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Aug-2025 08:53:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 08:53:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[15-Aug-2025 11:35:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 11:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[15-Aug-2025 11:35:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 11:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[15-Aug-2025 11:35:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Aug-2025 11:35:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[16-Aug-2025 11:25:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 11:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Aug-2025 14:42:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Aug-2025 14:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[26-Aug-2025 21:41:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Aug-2025 21:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[27-Aug-2025 05:21:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Aug-2025 05:21:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[27-Aug-2025 06:43:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Aug-2025 06:43:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[29-Aug-2025 02:49:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 02:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[29-Aug-2025 05:25:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 05:25:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[29-Aug-2025 07:52:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 07:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[29-Aug-2025 22:04:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Aug-2025 22:04:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[02-Sep-2025 15:08:36 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Sep-2025 15:08:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[07-Sep-2025 21:04:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Sep-2025 21:04:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[09-Sep-2025 21:55:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Sep-2025 21:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[09-Sep-2025 22:04:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Sep-2025 22:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[09-Sep-2025 22:22:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Sep-2025 22:22:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[09-Sep-2025 23:34:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Sep-2025 23:34:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[10-Sep-2025 03:58:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Sep-2025 03:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[10-Sep-2025 22:48:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Sep-2025 22:48:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[12-Sep-2025 09:51:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Sep-2025 09:51:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[17-Sep-2025 11:05:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Sep-2025 11:05:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[23-Sep-2025 21:27:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Sep-2025 21:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[24-Sep-2025 15:19:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[24-Sep-2025 15:19:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[26-Sep-2025 20:38:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Sep-2025 20:38:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[27-Sep-2025 00:23:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 00:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[27-Sep-2025 00:23:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 00:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[27-Sep-2025 00:27:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 00:27:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[27-Sep-2025 00:31:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 00:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[27-Sep-2025 00:35:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 00:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[27-Sep-2025 00:37:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 00:37:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[27-Sep-2025 00:42:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 00:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[27-Sep-2025 03:19:30 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 03:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[27-Sep-2025 23:42:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Sep-2025 23:42:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[28-Sep-2025 18:06:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[28-Sep-2025 18:06:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[29-Sep-2025 09:22:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Sep-2025 09:22:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Oct-2025 02:57:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 02:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Oct-2025 05:28:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 05:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[02-Oct-2025 08:28:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 08:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Oct-2025 21:03:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 21:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[02-Oct-2025 21:03:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 21:03:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[02-Oct-2025 21:46:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Oct-2025 21:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[04-Oct-2025 09:51:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Oct-2025 09:51:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[04-Oct-2025 16:55:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Oct-2025 16:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[16-Oct-2025 16:01:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Oct-2025 16:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[16-Oct-2025 18:25:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Oct-2025 18:25:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Oct-2025 22:33:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Oct-2025 22:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Oct-2025 22:33:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Oct-2025 22:33:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Oct-2025 22:33:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Oct-2025 22:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[16-Oct-2025 22:33:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Oct-2025 22:33:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[26-Oct-2025 11:27:56 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 11:27:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[26-Oct-2025 11:27:59 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 11:27:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[26-Oct-2025 11:28:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 11:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[26-Oct-2025 11:28:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Oct-2025 11:28:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[31-Oct-2025 20:17:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Oct-2025 20:17:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[01-Nov-2025 12:42:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Nov-2025 12:42:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Nov-2025 19:04:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 19:04:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Nov-2025 22:20:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 22:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Nov-2025 22:27:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 22:27:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Nov-2025 22:28:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 22:28:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[02-Nov-2025 22:32:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 22:32:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[02-Nov-2025 22:34:21 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 22:34:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Nov-2025 22:59:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Nov-2025 22:59:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[03-Nov-2025 00:08:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 00:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[03-Nov-2025 05:06:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 05:06:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[03-Nov-2025 09:46:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 09:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[03-Nov-2025 13:01:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[03-Nov-2025 13:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[04-Nov-2025 07:56:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Nov-2025 07:56:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[05-Nov-2025 12:53:53 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Nov-2025 12:53:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[07-Nov-2025 03:02:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Nov-2025 03:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[07-Nov-2025 04:56:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Nov-2025 04:56:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[07-Nov-2025 08:33:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Nov-2025 08:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[07-Nov-2025 22:08:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Nov-2025 22:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[08-Nov-2025 12:52:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Nov-2025 12:52:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[14-Nov-2025 01:34:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Nov-2025 01:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[14-Nov-2025 05:24:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Nov-2025 05:24:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[14-Nov-2025 05:24:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Nov-2025 05:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[14-Nov-2025 23:40:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Nov-2025 23:40:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[21-Nov-2025 04:32:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Nov-2025 04:32:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[21-Nov-2025 06:52:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Nov-2025 06:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[25-Nov-2025 10:05:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Nov-2025 10:05:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[25-Nov-2025 11:32:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Nov-2025 11:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[04-Dec-2025 21:11:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[04-Dec-2025 21:11:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[07-Dec-2025 14:34:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Dec-2025 14:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[10-Dec-2025 02:19:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 02:19:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[10-Dec-2025 02:19:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 02:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[10-Dec-2025 03:41:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Dec-2025 03:41:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[11-Dec-2025 02:42:04 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 02:42:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[11-Dec-2025 05:19:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 05:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[11-Dec-2025 06:28:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 06:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[11-Dec-2025 08:10:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 08:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[11-Dec-2025 17:09:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 17:09:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[11-Dec-2025 22:35:15 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Dec-2025 22:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[12-Dec-2025 01:17:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 01:17:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[12-Dec-2025 04:55:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Dec-2025 04:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[15-Dec-2025 09:23:01 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 09:23:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[15-Dec-2025 09:30:51 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 09:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Dec-2025 14:01:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 14:01:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[15-Dec-2025 14:08:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 14:08:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Dec-2025 14:22:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 14:22:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[15-Dec-2025 14:23:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 14:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Dec-2025 14:34:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 14:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[15-Dec-2025 14:35:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 14:35:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Dec-2025 23:47:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Dec-2025 23:47:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[16-Dec-2025 17:22:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Dec-2025 17:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[17-Dec-2025 04:15:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[17-Dec-2025 22:50:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Dec-2025 22:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[19-Dec-2025 01:25:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Dec-2025 01:25:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[19-Dec-2025 03:07:39 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Dec-2025 03:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[21-Dec-2025 10:17:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Dec-2025 10:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[22-Dec-2025 05:46:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Dec-2025 05:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[26-Dec-2025 07:30:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Dec-2025 07:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[31-Dec-2025 19:49:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Dec-2025 19:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[02-Jan-2026 01:24:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[02-Jan-2026 01:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[07-Jan-2026 01:42:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Jan-2026 01:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[09-Jan-2026 09:41:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Jan-2026 09:41:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[10-Jan-2026 13:50:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jan-2026 13:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[10-Jan-2026 19:01:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Jan-2026 19:01:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[11-Jan-2026 15:39:09 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 15:39:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[11-Jan-2026 23:24:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 23:24:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[11-Jan-2026 23:51:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 23:51:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[11-Jan-2026 23:52:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Jan-2026 23:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[12-Jan-2026 00:10:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Jan-2026 00:10:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Jan-2026 03:18:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 03:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[16-Jan-2026 05:26:03 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 05:26:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[16-Jan-2026 08:21:20 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Jan-2026 08:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[17-Jan-2026 01:35:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Jan-2026 01:35:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[22-Jan-2026 12:48:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Jan-2026 12:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[27-Jan-2026 07:22:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jan-2026 07:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[27-Jan-2026 16:15:45 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Jan-2026 16:15:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[29-Jan-2026 04:40:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 04:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[29-Jan-2026 04:40:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 04:40:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[29-Jan-2026 04:41:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 04:41:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[29-Jan-2026 04:43:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[29-Jan-2026 04:43:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[30-Jan-2026 16:42:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jan-2026 16:42:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[30-Jan-2026 20:14:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[30-Jan-2026 20:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[31-Jan-2026 03:58:08 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Jan-2026 03:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[09-Feb-2026 14:42:42 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Feb-2026 14:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[10-Feb-2026 05:00:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 05:00:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[10-Feb-2026 17:04:37 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 17:04:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[10-Feb-2026 19:23:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 19:23:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[10-Feb-2026 20:09:33 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 20:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[10-Feb-2026 21:06:40 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 21:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[10-Feb-2026 21:47:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 21:47:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[10-Feb-2026 22:56:28 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Feb-2026 22:56:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[18-Feb-2026 05:57:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Feb-2026 05:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[21-Feb-2026 10:06:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Feb-2026 10:06:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[21-Feb-2026 14:25:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Feb-2026 14:25:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[21-Feb-2026 22:50:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Feb-2026 22:50:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[25-Feb-2026 22:07:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[25-Feb-2026 22:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[26-Feb-2026 00:33:38 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Feb-2026 00:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[26-Feb-2026 13:10:24 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Feb-2026 13:10:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[26-Feb-2026 13:10:54 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[26-Feb-2026 13:10:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[27-Feb-2026 10:50:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Feb-2026 10:50:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[01-Mar-2026 21:18:22 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[01-Mar-2026 21:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[05-Mar-2026 02:55:14 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Mar-2026 02:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[05-Mar-2026 04:19:12 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Mar-2026 04:19:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[06-Mar-2026 19:55:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Mar-2026 19:55:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[06-Mar-2026 19:55:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[06-Mar-2026 19:55:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[08-Mar-2026 08:09:32 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Mar-2026 08:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[08-Mar-2026 09:34:48 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[08-Mar-2026 09:34:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[09-Mar-2026 03:57:10 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 03:57:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[09-Mar-2026 03:57:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 03:57:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[09-Mar-2026 03:57:11 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Mar-2026 03:57:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[11-Mar-2026 05:43:49 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Mar-2026 05:43:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[15-Mar-2026 17:32:16 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[15-Mar-2026 17:32:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[18-Mar-2026 17:28:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Mar-2026 17:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[18-Mar-2026 17:29:25 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Mar-2026 17:29:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[19-Mar-2026 11:00:05 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Mar-2026 11:00:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[19-Mar-2026 11:00:06 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Mar-2026 11:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[19-Mar-2026 14:09:23 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Mar-2026 14:09:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[19-Mar-2026 14:10:18 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[19-Mar-2026 14:10:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[20-Mar-2026 01:22:35 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 01:22:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[20-Mar-2026 15:53:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[20-Mar-2026 15:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[21-Mar-2026 06:06:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 06:06:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[21-Mar-2026 07:42:47 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[21-Mar-2026 07:42:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[22-Mar-2026 19:51:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 19:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[22-Mar-2026 22:54:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 22:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[22-Mar-2026 23:04:55 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 23:04:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[22-Mar-2026 23:20:27 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 23:20:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[22-Mar-2026 23:47:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[22-Mar-2026 23:47:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[23-Mar-2026 05:52:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[23-Mar-2026 05:52:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[27-Mar-2026 13:41:34 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[27-Mar-2026 13:41:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[31-Mar-2026 22:31:29 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[31-Mar-2026 22:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[05-Apr-2026 21:45:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[05-Apr-2026 21:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[07-Apr-2026 19:30:43 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[07-Apr-2026 19:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[09-Apr-2026 07:12:57 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Apr-2026 07:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[09-Apr-2026 20:28:31 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[09-Apr-2026 20:28:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[10-Apr-2026 09:18:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Apr-2026 09:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[10-Apr-2026 10:17:41 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[10-Apr-2026 10:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[11-Apr-2026 14:16:46 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 14:16:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[11-Apr-2026 18:30:50 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[11-Apr-2026 18:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[12-Apr-2026 04:27:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[12-Apr-2026 04:27:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[14-Apr-2026 23:02:13 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[14-Apr-2026 23:02:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[16-Apr-2026 03:29:26 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 03:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[16-Apr-2026 06:23:00 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 06:23:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/ExcelTest.php on line 18
+[16-Apr-2026 11:41:02 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 11:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/BooleanExpressionsTest.php on line 19
+[16-Apr-2026 15:04:19 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[16-Apr-2026 15:04:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/CalculatorTest.php on line 27
+[17-Apr-2026 23:42:17 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[17-Apr-2026 23:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
+[18-Apr-2026 17:55:52 UTC] PHP Warning:  PHP Startup: session.gc_divisor must be greater than 0 in Unknown on line 0
+[18-Apr-2026 17:55:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/proyectosevg/public_html/12/vendor/parsica-php/parsica/tests/Examples/SimpleDateTest.php on line 22
