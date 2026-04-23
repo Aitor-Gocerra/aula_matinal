@@ -89,6 +89,16 @@
                         </tr>
                     <?php endif; ?>
                 </tbody>
+                <?php if (!empty($datos['alumnos']) && is_array($datos['alumnos'])): ?>
+                <tfoot class="table-light fw-bold">
+                    <tr>
+                        <td colspan="2" class="text-end">TOTAL</td>
+                        <td><?php echo array_sum(array_column($datos['alumnos'], 'diasAsistidos')); ?></td>
+                        <td><?php echo number_format(array_sum(array_column($datos['alumnos'], 'importe')), 2, ',', '.'); ?> €</td>
+                        <td></td>
+                    </tr>
+                </tfoot>
+                <?php endif; ?>
             </table>
         </div>
     </div>

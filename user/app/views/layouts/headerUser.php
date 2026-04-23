@@ -7,15 +7,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) . ' — Aula Matinal' : 'Aula Matinal'; ?></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
     <link href="assets/css/style.css" rel="stylesheet">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark mb-4">
+<nav class="navbar navbar-expand-lg navbar-dark" aria-label="Navegación principal">
     <div class="container-fluid">
-        <div class="d-flex align-items-center">
-            <img src="assets/img/logoEscuela.png" alt="Logo Escuela" class="navbar-logo">
+        <a class="navbar-brand p-0" href="index.php?c=ControlAsistencia&m=gestionar">
+            <img src="assets/img/logoEscuela.png" alt="Logo Escuela — Inicio" class="navbar-logo">
+        </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -73,5 +75,4 @@
                 </ul>
             </div>
         </div>
-    </div>
 </nav>

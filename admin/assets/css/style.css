@@ -1,251 +1,453 @@
-/* Variables de colores */
+/* ============================================================
+   VARIABLES
+   ============================================================ */
 :root {
-    --azul-principal: #006EA4;
-    --azul-secundario: #5B9BD5;
-    --azul-claro: #7AAFC9;
-    --gris-tabla: #D9D9D9;
-    --blanco: #ffffff;
-    --card-body-bg: #d9ebf5;
+    --brand:          #0070AB;
+    --brand-dark:     #005a8e;
+    --brand-light:    #e8f4fb;
+    --border:         #e2e8f0;
+    --surface:        #ffffff;
+    --bg:             #f1f5f9;
+    --text:           #1e293b;
+    --text-muted:     #64748b;
+    --sidebar-w:      240px;
+    --topbar-h:       54px;
+    --sidebar-bg:     #0070AB;
+    --sidebar-hover:  rgba(0,0,0,.12);
+    --sidebar-active: rgba(0,0,0,.22);
+    --shadow-sm:      0 1px 3px rgba(0,0,0,.07), 0 1px 2px rgba(0,0,0,.05);
+    --shadow-md:      0 4px 12px rgba(0,0,0,.09);
+    --radius:         0.5rem;
 }
 
 /* ============================================================
-   BARRA DE NAVEGACIÓN
+   BASE
    ============================================================ */
-.navbar {
-    background-color: var(--azul-principal);
-    margin-bottom: 1.5rem;
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-size: 0.93rem;
+    padding-left: var(--sidebar-w);
+    padding-top: calc(var(--topbar-h) + 1.75rem);
 }
 
-.navbar-logo {
-    height: 48px;
+/* ============================================================
+   TOPBAR (header azul, ancho completo)
+   ============================================================ */
+.topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: var(--topbar-h);
+    background-color: var(--brand);
+    border-bottom: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,.18);
+    display: flex;
+    align-items: center;
+    padding: 0 1.25rem;
+    gap: 1rem;
+    z-index: 1060;
 }
 
-.nav-link-destacado {
+.topbar-logo {
+    height: 38px;
+    width: auto;
+}
+
+.topbar-inicio {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.875rem;
     font-weight: 600;
-    color: rgba(255, 255, 255, 0.9) !important;
-    border: 1px solid rgba(255, 255, 255, 0.4);
-    border-radius: 0.375rem;
-    padding: 0.35rem 0.75rem !important;
-    transition: background-color 0.2s ease, border-color 0.2s ease;
+    color: rgba(255,255,255,.9);
+    text-decoration: none;
+    padding: 0.35rem 0.75rem;
+    border-radius: 0.4rem;
+    transition: background-color .15s ease, color .15s ease;
 }
 
-.nav-link-destacado:hover {
-    background-color: rgba(255, 255, 255, 0.15);
-    border-color: rgba(255, 255, 255, 0.7);
-    color: #ffffff !important;
+.topbar-inicio:hover {
+    background-color: rgba(255,255,255,.15);
+    color: #fff;
+}
+
+.topbar-toggle {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: rgba(255,255,255,.85);
+    cursor: pointer;
+    padding: 0.2rem 0.45rem;
+    border-radius: 0.35rem;
+    line-height: 1;
+    transition: background-color .15s ease;
+}
+
+.topbar-toggle:hover {
+    background-color: rgba(255,255,255,.15);
+    color: #fff;
 }
 
 /* ============================================================
-   MENÚ DESPLEGABLE
+   SIDEBAR
    ============================================================ */
-.dropdown-menu {
-    background-color: var(--azul-secundario);
+.sidebar {
+    position: fixed;
+    top: var(--topbar-h);
+    left: 0;
+    height: calc(100vh - var(--topbar-h));
+    width: var(--sidebar-w);
+    background-color: var(--sidebar-bg);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 1050;
+    transition: transform .25s ease;
 }
 
-.dropdown-item {
-    color: var(--blanco);
+.sidebar-nav {
+    padding: 0.5rem 0 1.5rem;
+    flex: 1;
 }
 
-.dropdown-item:hover {
-    background-color: var(--azul-principal);
-    color: var(--blanco);
+.sidebar-section-label {
+    font-size: 0.67rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,.65);
+    padding: 1.1rem 1.25rem 0.35rem;
+}
+
+.sidebar-divider {
+    border-top: 1px solid rgba(255,255,255,.2);
+    margin: 0.6rem 0;
+}
+
+.sidebar-link {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    padding: 0.6rem 1.25rem;
+    color: rgba(255,255,255,.88);
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    border-left: 3px solid transparent;
+    transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+    white-space: nowrap;
+}
+
+.sidebar-link i {
+    font-size: 1rem;
+    flex-shrink: 0;
+    width: 1.1rem;
+    text-align: center;
+}
+
+.sidebar-link:hover {
+    background-color: var(--sidebar-hover);
+    color: #fff;
+}
+
+.sidebar-link.active {
+    background-color: var(--sidebar-active);
+    color: #fff;
+    border-left-color: #fff;
+}
+
+.sidebar-link-accent {
+    color: rgba(134,239,172,.8);
+}
+
+.sidebar-link-accent:hover {
+    background-color: rgba(134,239,172,.08);
+    color: #86efac;
+}
+
+.sidebar-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.45);
+    z-index: 1049;
+}
+
+.sidebar-overlay.open {
+    display: block;
 }
 
 /* ============================================================
-   ENCABEZADOS DE SECCIÓN (list/table views)
+   CONTENEDOR PRINCIPAL
+   ============================================================ */
+.dias-no-lectivos-container {
+    background: var(--surface);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--border);
+    padding: 1.75rem;
+}
+
+/* ============================================================
+   ENCABEZADOS DE SECCIÓN
    ============================================================ */
 .section-header {
-    font-weight: bold;
-    color: var(--azul-principal);
-    text-align: center;
-    font-size: 1.4rem;
-    margin-bottom: 16px;
-    display: inline-block;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: var(--brand);
+    letter-spacing: -0.01em;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid var(--border);
+    margin-bottom: 1.5rem;
+    width: 100%;
 }
 
 /* ============================================================
    TABLAS
    ============================================================ */
+.table {
+    font-size: 0.88rem;
+    border-collapse: collapse;
+}
+
 .table th {
-    background-color: var(--gris-tabla);
-    border-left: none;
-    border-right: none;
+    background-color: #f8fafc;
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    border-top: none;
+    border-bottom: 2px solid var(--border) !important;
+    padding: 0.8rem 1rem;
 }
 
 .table td {
-    background-color: var(--azul-claro);
-    color: var(--blanco);
+    background-color: var(--surface);
+    color: var(--text);
+    border-top: none;
+    border-bottom: 1px solid var(--border);
     border-left: none;
     border-right: none;
+    padding: 0.75rem 1rem;
+    vertical-align: middle;
+}
+
+.table tbody tr:hover td {
+    background-color: #f8fafc;
+}
+
+.table tfoot td {
+    background-color: #f1f5f9;
+    color: var(--text);
+    font-weight: 700;
+    border-top: 2px solid var(--border);
+    border-bottom: none;
 }
 
 /* ============================================================
-   BOTONES DE ACCIÓN (tabla)
+   BOTONES — sistema unificado
    ============================================================ */
-.action-button {
-    background: var(--azul-principal);
-    color: var(--blanco);
+.btn-volver,
+.add-button,
+.btn-azul,
+.btn-generar,
+.btn-detalles,
+.action-button,
+.panel-action-btn {
+    background-color: var(--brand);
+    color: var(--surface);
+    border: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border-radius: 0.4rem;
+    transition: background-color .15s ease, box-shadow .15s ease, transform .1s ease;
 }
 
-.action-button:hover {
-    background: var(--azul-secundario);
-    color: var(--blanco);
+.btn-volver:hover,
+.add-button:hover,
+.btn-azul:hover,
+.btn-generar:hover,
+.btn-detalles:hover,
+.action-button:hover,
+.panel-action-btn:hover {
+    background-color: var(--brand-dark);
+    color: var(--surface);
+    box-shadow: 0 2px 8px rgba(0,112,171,.28);
+}
+
+.panel-action-btn:hover { transform: translateY(-2px); }
+.panel-action-btn:active { transform: translateY(0); }
+
+.btn-outline-azul {
+    background-color: transparent;
+    color: var(--brand);
+    border: 1.5px solid var(--brand);
+    font-size: 0.85rem;
+    font-weight: 500;
+    border-radius: 0.4rem;
+    transition: all .15s ease;
+}
+
+.btn-outline-azul:hover {
+    background-color: var(--brand);
+    color: var(--surface);
+}
+
+.btn-cancelar {
+    background-color: #f1f5f9;
+    color: #475569;
+    border: 1.5px solid #cbd5e1;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border-radius: 0.4rem;
+    transition: background-color .15s ease;
+}
+
+.btn-cancelar:hover {
+    background-color: #e2e8f0;
+    color: #334155;
 }
 
 /* ============================================================
-   BOTÓN AÑADIR (icono +)
+   CARDS
    ============================================================ */
-.add-button {
-    background: var(--azul-principal);
-    color: var(--blanco);
+.card {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
 }
 
-.add-button:hover {
-    background: var(--azul-secundario);
-    color: var(--blanco);
+.card-header-primary {
+    background-color: var(--brand);
+    color: var(--surface);
+    font-weight: 600;
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+    border-radius: calc(var(--radius) - 1px) calc(var(--radius) - 1px) 0 0 !important;
+}
+
+.card-body-form {
+    background-color: #fafcff;
 }
 
 /* ============================================================
    FORMULARIOS
    ============================================================ */
 .form-header {
-    color: var(--azul-principal);
+    color: var(--brand);
+    font-weight: 700;
 }
 
 .form-header hr {
-    border-color: var(--azul-principal);
-    border-width: 2px;
+    border-color: var(--border);
+    border-width: 1px;
     opacity: 1;
 }
 
 .form-label {
-    color: var(--azul-principal);
+    color: #475569;
     font-weight: 600;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.3rem;
 }
 
-.form-button {
-    background-color: var(--azul-secundario);
-    color: var(--blanco);
+.form-control,
+.form-select {
+    border: 1.5px solid #e2e8f0;
+    border-radius: 0.4rem;
+    font-size: 0.88rem;
+    color: var(--text);
+    background-color: var(--surface);
+    transition: border-color .15s ease, box-shadow .15s ease;
 }
 
-.form-button:hover {
-    background-color: var(--azul-principal);
-    color: var(--blanco);
+.form-control:focus,
+.form-select:focus {
+    border-color: var(--brand);
+    box-shadow: 0 0 0 3px rgba(0,112,171,.12);
+    background-color: var(--surface);
 }
 
-/* Card headers y bodies de formularios de inscripción */
-.card-header-primary {
-    background-color: var(--azul-principal);
-    color: var(--blanco);
-}
-
-.card-body-form {
-    background-color: var(--card-body-bg);
-}
-
-/* Botón volver (consistente en todas las vistas) */
-.btn-volver {
-    background-color: var(--azul-principal);
-    color: var(--blanco);
-    border: none;
-}
-
-.btn-volver:hover {
-    background-color: var(--azul-secundario);
-    color: var(--blanco);
+.form-control.bg-light,
+.form-select.bg-light {
+    background-color: var(--surface) !important;
 }
 
 /* ============================================================
    BUSCADOR
    ============================================================ */
 .input-group-text.bg-custom-secondary {
-    background-color: var(--azul-principal);
-    border: 1px solid var(--azul-secundario);
-    color: var(--blanco);
+    background-color: var(--brand);
+    border: 1.5px solid var(--brand);
+    border-right: none;
+    color: var(--surface);
+    border-radius: 0.4rem 0 0 0.4rem;
+}
+
+.input-group .form-control {
+    border-left: none;
+    border-radius: 0 0.4rem 0.4rem 0;
 }
 
 /* ============================================================
-   BOTONES DATOS MENSUALES / REMESAS
-   ============================================================ */
-.btn-azul {
-    background-color: var(--azul-principal);
-    color: white;
-    border: 1px solid var(--azul-secundario);
-}
-
-.btn-azul:hover {
-    background-color: var(--azul-secundario);
-    color: white;
-}
-
-.btn-outline-azul {
-    background-color: transparent;
-    color: var(--azul-principal);
-    border: 1px solid var(--azul-principal);
-}
-
-.btn-outline-azul:hover {
-    background-color: var(--azul-principal);
-    color: white;
-}
-
-.btn-cancelar {
-    background-color: #ced4da;
-    color: #212529;
-    border: 1px solid #adb5bd;
-}
-
-.btn-cancelar:hover {
-    background-color: #adb5bd;
-    color: #212529;
-}
-
-.btn-generar {
-    background-color: var(--azul-principal);
-    color: white;
-    border: 1px solid var(--azul-secundario);
-}
-
-.btn-generar:hover {
-    background-color: var(--azul-secundario);
-    color: white;
-}
-
-.btn-detalles {
-    background-color: var(--azul-principal);
-    color: #fff;
-    border: none;
-}
-
-.btn-detalles:hover {
-    background-color: var(--azul-secundario);
-    color: #fff;
-}
-
-/* ============================================================
-   MODAL HEADERS (consistencia)
+   MODAL
    ============================================================ */
 .modal-header-primary {
-    background-color: var(--azul-principal);
-    color: var(--blanco);
+    background-color: var(--brand);
+    color: var(--surface);
+}
+
+.modal-content {
+    border: none;
+    border-radius: var(--radius);
+    box-shadow: 0 20px 48px rgba(0,0,0,.15);
+    overflow: hidden;
 }
 
 /* ============================================================
-   PANEL ADMIN — tarjetas de acceso rápido
+   ALERTAS
    ============================================================ */
-.panel-action-btn {
-    background-color: var(--azul-principal);
-    color: var(--blanco);
-    border: none;
-    transition: background-color 0.2s ease, transform 0.1s ease;
+.alert {
+    border-radius: var(--radius);
+    font-size: 0.88rem;
+    border-width: 0;
+    border-left: 4px solid;
 }
 
-.panel-action-btn:hover {
-    background-color: var(--azul-secundario);
-    color: var(--blanco);
-    transform: translateY(-2px);
-}
+.alert-danger  { border-color: #ef4444; background-color: #fef2f2; color: #991b1b; }
+.alert-success { border-color: #22c55e; background-color: #f0fdf4; color: #166534; }
+.alert-info    { border-color: var(--brand); background-color: var(--brand-light); color: var(--brand-dark); }
+.alert-warning { border-color: #f59e0b; background-color: #fffbeb; color: #92400e; }
 
-.panel-action-btn:active {
-    transform: translateY(0);
+/* ============================================================
+   RESPONSIVE — móvil
+   ============================================================ */
+@media (max-width: 991.98px) {
+    body {
+        padding-left: 0;
+    }
+
+    .sidebar {
+        transform: translateX(-100%);
+    }
+
+    .sidebar.open {
+        transform: translateX(0);
+    }
+
+    .topbar-toggle {
+        display: flex;
+        align-items: center;
+    }
 }

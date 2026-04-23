@@ -212,6 +212,50 @@ class MGestionInscripciones{
         }
     }
 
+    public function darDeBajaAlumno($id) {
+        $this->conexion->begin_transaction();
+
+        try {
+            $stmt = $this->conexion->prepare("SELECT idAlumno FROM alumno WHERE idInscripcion = ?");
+            $stmt->bind_param("i", $id);
+            $stmt->execute();
+            $resultado = $stmt->get_result();
+            if ($resultado->num_rows === 0) {
+                $this->conexion->rollback();
+                return false;
+            }
+            $idAlumno = $resultado->fetch_assoc()['idAlumno'];
+            $stmt->close();
+
+            $stmt = $this->conexion->prepare("DELETE FROM recibos WHERE idAlumno = ?");
+            $stmt->bind_param("i", $idAlumno);
+            $stmt->execute();
+            $stmt->close();
+
+            $stmt = $this->conexion->prepare("DELETE FROM asistencia WHERE idAlumno = ?");
+            $stmt->bind_param("i", $idAlumno);
+            $stmt->execute();
+            $stmt->close();
+
+            $stmt = $this->conexion->prepare("DELETE FROM alumno WHERE idInscripcion = ?");
+            $stmt->bind_param("i", $id);
+            $stmt->execute();
+            $stmt->close();
+
+            $stmt = $this->conexion->prepare("DELETE FROM inscripciones WHERE idInscripcion = ?");
+            $stmt->bind_param("i", $id);
+            $stmt->execute();
+            $stmt->close();
+
+            $this->conexion->commit();
+            return true;
+
+        } catch (Exception $e) {
+            $this->conexion->rollback();
+            return false;
+        }
+    }
+
     public function inscripcionesincompletas(){
         $sql = "SELECT a.idAlumno,
                     a.nombreAlumno,

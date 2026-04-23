@@ -305,7 +305,79 @@ class CGestionInscripciones{
     }
 
     /**
-     * Función que valida los campos del formulario de 
+     * Da de baja un alumno eliminando su inscripción, asistencias y recibos.
+     */
+    public function darDeBaja() {
+        $this->vista = 'vAlumnosInscritos';
+        $lista = $this->obj_modelo->alumnosinscritos();
+        $clases = $this->obj_modelo->listarclases();
+        $result = isset($lista['noalumnos'])
+            ? ['noalumnos' => $lista['noalumnos']]
+            : ['datos' => $lista];
+        $result['clases'] = $clases;
+
+        if (!isset($_GET['id'])) {
+            $result['errores'] = 'ID de inscripción no válido.';
+            return $result;
+        }
+
+        $id = (int)$_GET['id'];
+        if ($this->obj_modelo->darDeBajaAlumno($id)) {
+            $lista = $this->obj_modelo->alumnosinscritos();
+            $result = isset($lista['noalumnos'])
+                ? ['noalumnos' => $lista['noalumnos']]
+                : ['datos' => $lista];
+            $result['clases'] = $clases;
+            $result['mensaje_exito'] = 'El alumno ha sido dado de baja correctamente.';
+        } else {
+            $result['errores'] = 'Error al dar de baja al alumno.';
+        }
+
+        return $result;
+    }
+
+    /**
+     * Exporta la lista de alumnos inscritos como archivo CSV.
+     */
+    public function exportarCSV() {
+        $lista = $this->obj_modelo->alumnosinscritos();
+
+        if (isset($lista['noalumnos'])) {
+            $this->vista = 'vAlumnosInscritos';
+            $clases = $this->obj_modelo->listarclases();
+            return ['noalumnos' => $lista['noalumnos'], 'clases' => $clases];
+        }
+
+        header('Content-Type: text/csv; charset=utf-8');
+        header('Content-Disposition: attachment; filename="alumnos_inscritos_' . date('Y-m-d') . '.csv"');
+
+        $output = fopen('php://output', 'w');
+        fprintf($output, chr(0xEF) . chr(0xBB) . chr(0xBF)); // BOM UTF-8 para Excel
+
+        fputcsv($output, ['Apellidos alumno', 'Nombre alumno', 'Clase', 'Nombre tutor', 'Apellidos tutor', 'DNI', 'Teléfono', 'Correo', 'IBAN', 'Titular cuenta', 'Fecha mandato'], ';');
+
+        foreach ($lista as $alumno) {
+            fputcsv($output, [
+                $alumno['apellidosAlumno'],
+                $alumno['nombreAlumno'],
+                $alumno['clase'],
+                $alumno['nombrePadre'],
+                $alumno['apellidosPadre'],
+                $alumno['DNI'],
+                $alumno['telefono'],
+                $alumno['correo'],
+                $alumno['IBAN'],
+                $alumno['titularCuenta'],
+                $alumno['fechaMandato'] ?? ''
+            ], ';');
+        }
+
+        fclose($output);
+        exit;
+    }
+
+    /**
+     * Función que valida los campos del formulario de
      * @return array{clases: array, datos: array, errores: array, id_inscripcion: mixed|array{clases: array, datos: array, errores: string}|array{datos: array, mensaje_exito: string}}
      */
     public function modificarinscripcion_completa(){

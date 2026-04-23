@@ -28,6 +28,31 @@
         </div>
     </div>
 
+    <!-- Modal de confirmación de baja -->
+    <div class="modal fade" id="bajaModal" tabindex="-1" aria-labelledby="bajaModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header modal-header-primary">
+                    <h5 class="modal-title" id="bajaModalLabel">
+                        <i class="bi bi-person-dash me-2" aria-hidden="true"></i>Dar de baja
+                    </h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                </div>
+                <div class="modal-body text-center py-4">
+                    <i class="bi bi-exclamation-triangle-fill text-warning" style="font-size: 3rem;" aria-hidden="true"></i>
+                    <p class="mt-3 mb-0">¿Seguro que quieres dar de baja a <strong id="bajaModalNombre"></strong>?</p>
+                    <p class="text-danger small mt-1">Esta acción eliminará el alumno, sus asistencias y sus recibos.</p>
+                </div>
+                <div class="modal-footer border-0 justify-content-center">
+                    <a href="#" id="btnConfirmarBaja" class="btn btn-danger px-4">
+                        <i class="bi bi-person-dash me-1" aria-hidden="true"></i> Dar de baja
+                    </a>
+                    <button type="button" class="btn btn-cancelar px-4" data-bs-dismiss="modal">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Modal de inscripción (añadir / modificar) -->
     <div class="modal fade" id="inscripcionModal" tabindex="-1" aria-labelledby="inscripcionModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-xl modal-dialog-centered modal-dialog-scrollable">
@@ -190,18 +215,31 @@
                 <a href="index.php?c=GestionInscripciones&m=inscripcionesincompletas" class="btn add-button d-inline-flex align-items-center gap-1">
                     <i class="bi bi-clipboard-check" aria-hidden="true"></i> Completar Inscripciones
                 </a>
+                <a href="index.php?c=GestionInscripciones&m=exportarCSV" class="btn add-button d-inline-flex align-items-center gap-1">
+                    <i class="bi bi-filetype-csv" aria-hidden="true"></i> Exportar CSV
+                </a>
             </div>
-            <div class="input-group" style="max-width: 280px;">
-                <span class="input-group-text bg-custom-secondary" aria-hidden="true">
-                    <i class="bi bi-search"></i>
-                </span>
-                <input type="text" class="form-control" id="buscadorAlumnos"
-                       placeholder="Buscar alumno por nombre" aria-label="Buscar alumno por nombre">
+            <div class="d-flex align-items-center gap-2" style="flex-shrink: 0;">
+                <select class="form-select form-select-sm" id="filtroClase" aria-label="Filtrar por clase" style="width: 160px;">
+                    <option value="">Todas las clases</option>
+                    <?php foreach ($datos['clases'] as $clase): ?>
+                        <option value="<?php echo htmlspecialchars($clase['clase']); ?>">
+                            <?php echo htmlspecialchars($clase['clase']); ?>
+                        </option>
+                    <?php endforeach; ?>
+                </select>
+                <div class="input-group input-group-sm" style="width: 230px;">
+                    <span class="input-group-text bg-custom-secondary" aria-hidden="true">
+                        <i class="bi bi-search"></i>
+                    </span>
+                    <input type="text" class="form-control" id="buscadorAlumnos"
+                           placeholder="Buscar por nombre" aria-label="Buscar alumno por nombre">
+                </div>
             </div>
         </div>
 
         <div class="table-responsive">
-            <table class="table mb-5 text-center align-middle" aria-label="Listado de alumnos inscritos">
+            <table class="table mb-0 text-center align-middle" aria-label="Listado de alumnos inscritos">
                 <thead>
                     <tr>
                         <th scope="col">Nombre</th>
@@ -219,7 +257,7 @@
                     <?php endif; ?>
                     <?php if (isset($datos['datos'])): ?>
                         <?php foreach ($datos['datos'] as $dato): ?>
-                            <tr>
+                            <tr data-fila-alumno="true">
                                 <td>
                                     <a href="index.php?c=GestionInscripciones&m=consultardatos&id=<?php echo (int)$dato['idInscripcion']; ?>"
                                        class="text-decoration-none fw-medium">
@@ -246,12 +284,34 @@
                                             title="Modificar" aria-label="Modificar inscripción de <?php echo htmlspecialchars($dato['nombreAlumno']); ?>">
                                         <i class="bi bi-pencil" aria-hidden="true"></i>
                                     </button>
+                                    <button type="button"
+                                            class="btn btn-sm btn-outline-danger"
+                                            data-accion="baja"
+                                            data-id="<?php echo (int)$dato['idInscripcion']; ?>"
+                                            data-nombre="<?php echo htmlspecialchars($dato['apellidosAlumno'] . ', ' . $dato['nombreAlumno']); ?>"
+                                            title="Dar de baja" aria-label="Dar de baja a <?php echo htmlspecialchars($dato['nombreAlumno']); ?>">
+                                        <i class="bi bi-person-dash" aria-hidden="true"></i>
+                                    </button>
                                 </td>
                             </tr>
                         <?php endforeach; ?>
                     <?php endif; ?>
                 </tbody>
             </table>
+        </div>
+
+        <!-- Paginación -->
+        <div class="d-flex flex-wrap justify-content-between align-items-center mt-3 gap-2">
+            <small class="text-muted" id="paginacionInfo"></small>
+            <nav aria-label="Paginación alumnos">
+                <ul class="pagination pagination-sm mb-0" id="paginacionControles"></ul>
+            </nav>
+            <select class="form-select form-select-sm" id="filasPorPagina" aria-label="Filas por página" style="width: auto;">
+                <option value="10">10 por página</option>
+                <option value="25">25 por página</option>
+                <option value="50">50 por página</option>
+                <option value="0">Todos</option>
+            </select>
         </div>
     </div>
 
