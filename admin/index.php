@@ -1,4 +1,18 @@
 <?php
+    // Validar acceso mediante token
+    $token = $_GET['token'] ?? null;
+    $cookieToken = $_COOKIE['auth_token'] ?? null;
+
+    if ($token) {
+        setcookie("auth_token", $token, time() + (86400 * 30), "/");
+        $cookieToken = $token;
+    }
+
+    if (!$cookieToken && !$token) {
+        header("Location: https://07.proyectos.esvirgua.com/");
+        exit();
+    }
+
     require_once __DIR__ . "/app/config/config.php";
 
     if(!isset($_GET['c'])){
