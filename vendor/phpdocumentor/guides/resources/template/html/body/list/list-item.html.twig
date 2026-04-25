@@ -1,5 +1,0 @@
-<li{{- node.prefix == '-' ? ' class="dash"' : '' -}}>
-    {%- for child in node.children -%}
-        {{ renderNode(child) }}
-    {%- endfor -%}
-</li>

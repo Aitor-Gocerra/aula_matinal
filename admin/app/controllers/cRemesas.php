@@ -210,7 +210,7 @@ class CRemesas {
      * Metodo privado que crea el excel con los datos de la base de datos
      */
     private function crearRemesas(array $datos, $mes, $anio) {
-        require '../vendor/autoload.php';
+        require '../../composer/vendor/autoload.php';
     
         $spreadsheet = IOFactory::load('assets/excel/remesa_Excel_CSP_es.xlsx');    
         $sheet = $spreadsheet->getActiveSheet();
@@ -260,7 +260,7 @@ class CRemesas {
      * Metodo que descarga el excel de la remesa
      */
     public function descargarQ19() {
-        require '../vendor/autoload.php';
+        require '../../composer/vendor/autoload.php';
         $mes = $_GET['mes'];
         $anio = $_GET['anio'];
         $spreadsheet = IOFactory::load('assets/excel/remesa_'.$mes.'_'.$anio.'.xlsx');
