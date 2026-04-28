@@ -126,5 +126,6 @@
             document.getElementById('btnConfirmarBorrado').href = 'index.php?c=DiasNoLectivos&m=eliminar&id=' + idDia;
         });
     </script>
+<?php include_once('layouts/footer.php'); ?>
 </body>
 </html>

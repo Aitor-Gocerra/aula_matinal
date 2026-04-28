@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /mnt/c/Users/Aitor/Desktop/Aula_Matinal ls-files \"*.css\")",
+      "Bash(git -C /mnt/c/Users/Aitor/Desktop/Aula_Matinal show HEAD:admin/assets/css/style.css)",
+      "Bash(git -C /mnt/c/Users/Aitor/Desktop/Aula_Matinal show HEAD:admin/app/views/layouts/footer.php)",
+      "Bash(git -C /mnt/c/Users/Aitor/Desktop/Aula_Matinal diff HEAD -- admin/app/views/layouts/footer.php)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(git -C /mnt/c/Users/Aitor/Desktop/Aula_Matinal status --short)",
+      "Bash(git -C /mnt/c/Users/Aitor/Desktop/Aula_Matinal stash list)",
+      "Bash(git -C /mnt/c/Users/Aitor/Desktop/Aula_Matinal status)"
+    ]
+  }
+}

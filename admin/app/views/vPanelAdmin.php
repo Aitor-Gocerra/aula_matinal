@@ -85,5 +85,6 @@
         });
     </script>
     <?php endif; ?>
+<?php include_once('layouts/footer.php'); ?>
 </body>
 </html>

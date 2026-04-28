@@ -383,5 +383,6 @@
         });
     </script>
     <script src="js/views/vAlumnosInscritos.js"></script>
+<?php include_once('layouts/footer.php'); ?>
 </body>
 </html>
