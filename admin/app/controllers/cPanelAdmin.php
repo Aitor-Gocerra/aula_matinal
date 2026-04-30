@@ -1,5 +1,7 @@
 <?php
 
+require_once(CONFIG . '/jwt_helper.php');
+
 class CPanelAdmin{
 
     public $obj_modelo;
@@ -10,14 +12,10 @@ class CPanelAdmin{
         $this->obj_modelo = new MPanelAdmin();
     }
 
-    /**
-     * Devolvemos la vista con el número de inscripciones pendientes
-     * @return array resultado de la consulta a la base de datos
-     * @return string mensaje de error si no hay inscripciones pendientes
-     */
     public function inicio(){
         $this->vista = 'vPanelAdmin';
         $resultado = $this->obj_modelo->num_inscripcionespendientes();
+        $resultado['nombre_usuario'] = jwt_get_nombre();
         return $resultado;
     }
 }

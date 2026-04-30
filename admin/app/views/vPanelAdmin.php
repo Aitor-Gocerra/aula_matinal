@@ -32,7 +32,13 @@
                 <div class="card shadow-sm border-0">
                     <div class="card-body text-center p-4 p-md-5">
                         <i class="bi bi-person-workspace text-primary mb-3" style="font-size: 2.5rem;" aria-hidden="true"></i>
-                        <h1 class="h2 mb-2 form-header">¡Bienvenida, Pilar!</h1>
+                        <h1 class="h2 mb-2 form-header">
+                            <?php if (!empty($datos['nombre_usuario'])): ?>
+                                ¡Bienvenido/a, <?php echo htmlspecialchars($datos['nombre_usuario']); ?>!
+                            <?php else: ?>
+                                ¡Bienvenido/a!
+                            <?php endif; ?>
+                        </h1>
                         <p class="text-muted mb-4">Selecciona una opción para gestionar el Aula Matinal.</p>
 
                         <div class="row g-3 justify-content-center">
